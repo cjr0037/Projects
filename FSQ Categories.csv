@@ -1,0 +1,1234 @@
+Category ID,Category Label,Category_Primary,Category_Secondary
+10000,Arts and Entertainment,Arts and Entertainment,
+10001,Arts and Entertainment > Amusement Park,Arts and Entertainment , Amusement Park
+10002,Arts and Entertainment > Aquarium,Arts and Entertainment , Aquarium
+10003,Arts and Entertainment > Arcade,Arts and Entertainment , Arcade
+10004,Arts and Entertainment > Art Gallery,Arts and Entertainment , Art Gallery
+10005,Arts and Entertainment > Bingo Center,Arts and Entertainment , Bingo Center
+10006,Arts and Entertainment > Bowling Alley,Arts and Entertainment , Bowling Alley
+10007,Arts and Entertainment > Carnival,Arts and Entertainment , Carnival
+10008,Arts and Entertainment > Casino,Arts and Entertainment , Casino
+10009,Arts and Entertainment > Circus,Arts and Entertainment , Circus
+10010,Arts and Entertainment > Comedy Club,Arts and Entertainment , Comedy Club
+10011,Arts and Entertainment > Country Club,Arts and Entertainment , Country Club
+10012,Arts and Entertainment > Country Dance Club,Arts and Entertainment , Country Dance Club
+10013,Arts and Entertainment > Dance Hall,Arts and Entertainment , Dance Hall
+10014,Arts and Entertainment > Disc Golf Course,Arts and Entertainment , Disc Golf Course
+10015,Arts and Entertainment > Escape Room,Arts and Entertainment , Escape Room
+10016,Arts and Entertainment > Exhibit,Arts and Entertainment , Exhibit
+10017,Arts and Entertainment > Fair,Arts and Entertainment , Fair
+10018,Arts and Entertainment > Gaming Cafe,Arts and Entertainment , Gaming Cafe
+10019,Arts and Entertainment > Go Kart Track,Arts and Entertainment , Go Kart Track
+10020,Arts and Entertainment > Internet Cafe,Arts and Entertainment , Internet Cafe
+10021,Arts and Entertainment > Karaoke Box,Arts and Entertainment , Karaoke Box
+10022,Arts and Entertainment > Laser Tag Center,Arts and Entertainment , Laser Tag Center
+10023,Arts and Entertainment > Mini Golf Course,Arts and Entertainment , Mini Golf Course
+10024,Arts and Entertainment > Movie Theater,Arts and Entertainment , Movie Theater
+10025,Arts and Entertainment > Movie Theater > Drive-in Theater,Arts and Entertainment , Movie Theater 
+10026,Arts and Entertainment > Movie Theater > Indie Movie Theater,Arts and Entertainment , Movie Theater 
+10027,Arts and Entertainment > Museum,Arts and Entertainment , Museum
+10028,Arts and Entertainment > Museum > Art Museum,Arts and Entertainment , Museum 
+10029,Arts and Entertainment > Museum > Erotic Museum,Arts and Entertainment , Museum 
+10030,Arts and Entertainment > Museum > History Museum,Arts and Entertainment , Museum 
+10031,Arts and Entertainment > Museum > Science Museum,Arts and Entertainment , Museum 
+10032,Arts and Entertainment > Night Club,Arts and Entertainment , Night Club
+10033,Arts and Entertainment > Pachinko Parlor,Arts and Entertainment , Pachinko Parlor
+10034,Arts and Entertainment > Party Center,Arts and Entertainment , Party Center
+10035,Arts and Entertainment > Performing Arts Venue,Arts and Entertainment , Performing Arts Venue
+10036,Arts and Entertainment > Performing Arts Venue > Amphitheater,Arts and Entertainment , Performing Arts Venue 
+10037,Arts and Entertainment > Performing Arts Venue > Concert Hall,Arts and Entertainment , Performing Arts Venue 
+10038,Arts and Entertainment > Performing Arts Venue > Indie Theater,Arts and Entertainment , Performing Arts Venue 
+10039,Arts and Entertainment > Performing Arts Venue > Music Venue,Arts and Entertainment , Performing Arts Venue 
+10040,Arts and Entertainment > Performing Arts Venue > Music Venue > Jazz and Blues Venue,Arts and Entertainment , Performing Arts Venue 
+10041,Arts and Entertainment > Performing Arts Venue > Music Venue > Rock Club,Arts and Entertainment , Performing Arts Venue 
+10042,Arts and Entertainment > Performing Arts Venue > Opera House,Arts and Entertainment , Performing Arts Venue 
+10043,Arts and Entertainment > Performing Arts Venue > Theater,Arts and Entertainment , Performing Arts Venue 
+10044,Arts and Entertainment > Planetarium,Arts and Entertainment , Planetarium
+10045,Arts and Entertainment > Pool Hall,Arts and Entertainment , Pool Hall
+10046,Arts and Entertainment > Psychic and Astrologer,Arts and Entertainment , Psychic and Astrologer
+10047,Arts and Entertainment > Public Art,Arts and Entertainment , Public Art
+10048,Arts and Entertainment > Roller Rink,Arts and Entertainment , Roller Rink
+10049,Arts and Entertainment > Salsa Club,Arts and Entertainment , Salsa Club
+10050,Arts and Entertainment > Samba School,Arts and Entertainment , Samba School
+10051,Arts and Entertainment > Stadium,Arts and Entertainment , Stadium
+10052,Arts and Entertainment > Strip Club,Arts and Entertainment , Strip Club
+10053,Arts and Entertainment > Ticket Seller,Arts and Entertainment , Ticket Seller
+10054,Arts and Entertainment > VR Cafe,Arts and Entertainment , VR Cafe
+10055,Arts and Entertainment > Water Park,Arts and Entertainment , Water Park
+10056,Arts and Entertainment > Zoo,Arts and Entertainment , Zoo
+10057,Arts and Entertainment > Disc Golf,Arts and Entertainment , Disc Golf
+10058,Arts and Entertainment > Amusement Park > Attraction,Arts and Entertainment , Amusement Park 
+10059,Arts and Entertainment > Public Art > Street Art,Arts and Entertainment , Public Art 
+10060,Arts and Entertainment > Stadium > Baseball Stadium,Arts and Entertainment , Stadium 
+10061,Arts and Entertainment > Stadium > Basketball Stadium,Arts and Entertainment , Stadium 
+10062,Arts and Entertainment > Stadium > Football Stadium,Arts and Entertainment , Stadium 
+10063,Arts and Entertainment > Stadium > Hockey Stadium,Arts and Entertainment , Stadium 
+10064,Arts and Entertainment > Stadium > Rugby Stadium,Arts and Entertainment , Stadium 
+10065,Arts and Entertainment > Stadium > Soccer Stadium,Arts and Entertainment , Stadium 
+10066,Arts and Entertainment > Stadium > Tennis Stadium,Arts and Entertainment , Stadium 
+10067,Arts and Entertainment > Stadium > Track Stadium,Arts and Entertainment , Stadium 
+10068,Arts and Entertainment > Zoo > Zoo Exhibit,Arts and Entertainment , Zoo 
+10069,Arts and Entertainment > Public Art > Outdoor Sculpture,Arts and Entertainment , Public Art 
+11000,Business and Professional Services,Business and Professional Services,
+11001,Business and Professional Services > Advertising Agency,Business and Professional Services , Advertising Agency
+11002,Business and Professional Services > Agriculture and Forestry Service,Business and Professional Services , Agriculture and Forestry Service
+11003,Business and Professional Services > Architecture Firm,Business and Professional Services , Architecture Firm
+11004,Business and Professional Services > Art Restoration Service,Business and Professional Services , Art Restoration Service
+11005,Business and Professional Services > Art Studio,Business and Professional Services , Art Studio
+11006,Business and Professional Services > Audiovisual Service,Business and Professional Services , Audiovisual Service
+11007,Business and Professional Services > Auditorium,Business and Professional Services , Auditorium
+11008,Business and Professional Services > Automation and Control System,Business and Professional Services , Automation and Control System
+11009,Business and Professional Services > Automotive Service,Business and Professional Services , Automotive Service
+11010,Business and Professional Services > Automotive Service > Automotive Repair Shop,Business and Professional Services , Automotive Service 
+11011,Business and Professional Services > Automotive Service > Car Wash and Detail,Business and Professional Services , Automotive Service 
+11012,Business and Professional Services > Automotive Service > Motorcycle Repair Shop,Business and Professional Services , Automotive Service 
+11013,Business and Professional Services > Automotive Service > Oil Change Service,Business and Professional Services , Automotive Service 
+11014,Business and Professional Services > Automotive Service > Smog Check Shop,Business and Professional Services , Automotive Service 
+11015,Business and Professional Services > Automotive Service > Tire Repair Shop,Business and Professional Services , Automotive Service 
+11016,Business and Professional Services > Automotive Service > Towing Service,Business and Professional Services , Automotive Service 
+11017,Business and Professional Services > Automotive Service > Transmissions Shop,Business and Professional Services , Automotive Service 
+11018,Business and Professional Services > Automotive Service > Vehicle Inspection Station,Business and Professional Services , Automotive Service 
+11019,Business and Professional Services > Ballroom,Business and Professional Services , Ballroom
+11020,Business and Professional Services > Office > Business and Strategy Consulting Office,Business and Professional Services , Office 
+11021,Business and Professional Services > Business Center,Business and Professional Services , Business Center
+11022,Business and Professional Services > Office > Campaign Office,Business and Professional Services , Office 
+11023,Business and Professional Services > Career Counselor,Business and Professional Services , Career Counselor
+11024,Business and Professional Services > Chemicals and Gasses Manufacturer,Business and Professional Services , Chemicals and Gasses Manufacturer
+11025,Business and Professional Services > Child Care Service,Business and Professional Services , Child Care Service
+11026,Business and Professional Services > Child Care Service > Daycare,Business and Professional Services , Child Care Service 
+11027,Business and Professional Services > Computer Repair Service,Business and Professional Services , Computer Repair Service
+11028,Business and Professional Services > Construction,Business and Professional Services , Construction
+11029,Business and Professional Services > Convention Center,Business and Professional Services , Convention Center
+11030,Business and Professional Services > Design Studio,Business and Professional Services , Design Studio
+11031,Business and Professional Services > Distribution Center,Business and Professional Services , Distribution Center
+11032,Business and Professional Services > Electrical Equipment Supplier,Business and Professional Services , Electrical Equipment Supplier
+11033,Business and Professional Services > Employment Agency,Business and Professional Services , Employment Agency
+11034,Business and Professional Services > Engineer,Business and Professional Services , Engineer
+11035,Business and Professional Services > Entertainment Agency,Business and Professional Services , Entertainment Agency
+11036,Business and Professional Services > Entertainment Service,Business and Professional Services , Entertainment Service
+11037,Business and Professional Services > Equipment Rental Service,Business and Professional Services , Equipment Rental Service
+11038,Business and Professional Services > Event Service,Business and Professional Services , Event Service
+11039,Business and Professional Services > Event Space,Business and Professional Services , Event Space
+11040,Business and Professional Services > Factory,Business and Professional Services , Factory
+11041,Business and Professional Services > Film Studio,Business and Professional Services , Film Studio
+11042,Business and Professional Services > Financial Service,Business and Professional Services , Financial Service
+11043,Business and Professional Services > Financial Service > Accounting and Bookkeeping Service,Business and Professional Services , Financial Service 
+11044,Business and Professional Services > Financial Service > Banking and Finance > ATM,Business and Professional Services , Financial Service 
+11045,Business and Professional Services > Financial Service > Banking and Finance > Bank,Business and Professional Services , Financial Service 
+11046,Business and Professional Services > Financial Service > Banking and Finance,Business and Professional Services , Financial Service 
+11047,Business and Professional Services > Financial Service > Business Broker,Business and Professional Services , Financial Service 
+11048,Business and Professional Services > Financial Service > Check Cashing Service,Business and Professional Services , Financial Service 
+11049,Business and Professional Services > Financial Service > Collections Service,Business and Professional Services , Financial Service 
+11050,Business and Professional Services > Financial Service > Credit Counseling and Bankruptcy Service,Business and Professional Services , Financial Service 
+11051,Business and Professional Services > Financial Service > Banking and Finance > Credit Union,Business and Professional Services , Financial Service 
+11052,Business and Professional Services > Financial Service > Currency Exchange,Business and Professional Services , Financial Service 
+11053,Business and Professional Services > Financial Service > Financial Planner,Business and Professional Services , Financial Service 
+11054,Business and Professional Services > Financial Service > Loans Agency,Business and Professional Services , Financial Service 
+11055,Business and Professional Services > Financial Service > Stock Broker,Business and Professional Services , Financial Service 
+11056,Business and Professional Services > Food and Beverage Service,Business and Professional Services , Food and Beverage Service
+11057,Business and Professional Services > Food and Beverage Service > Caterer,Business and Professional Services , Food and Beverage Service 
+11058,Business and Professional Services > Food and Beverage Service > Food Distribution Center,Business and Professional Services , Food and Beverage Service 
+11059,Business and Professional Services > Funeral Home,Business and Professional Services , Funeral Home
+11060,Business and Professional Services > Geological Service,Business and Professional Services , Geological Service
+11061,Business and Professional Services > Health and Beauty Service,Business and Professional Services , Health and Beauty Service
+11062,Business and Professional Services > Health and Beauty Service > Barbershop,Business and Professional Services , Health and Beauty Service 
+11063,Business and Professional Services > Health and Beauty Service > Bath House,Business and Professional Services , Health and Beauty Service 
+11064,Business and Professional Services > Health and Beauty Service > Hair Salon,Business and Professional Services , Health and Beauty Service 
+11065,Business and Professional Services > Health and Beauty Service > Body Piercing Shop,Business and Professional Services , Health and Beauty Service 
+11066,Business and Professional Services > Health and Beauty Service > Dry Cleaner,Business and Professional Services , Health and Beauty Service 
+11067,Business and Professional Services > Health and Beauty Service > Hair Removal Service,Business and Professional Services , Health and Beauty Service 
+11068,Business and Professional Services > Laundromat,Business and Professional Services , Laundromat
+11069,Business and Professional Services > Laundry Service,Business and Professional Services , Laundry Service
+11070,Business and Professional Services > Health and Beauty Service > Massage Clinic,Business and Professional Services , Health and Beauty Service 
+11071,Business and Professional Services > Health and Beauty Service > Nail Salon,Business and Professional Services , Health and Beauty Service 
+11072,Business and Professional Services > Health and Beauty Service > Skin Care Clinic,Business and Professional Services , Health and Beauty Service 
+11073,Business and Professional Services > Health and Beauty Service > Spa,Business and Professional Services , Health and Beauty Service 
+11074,Business and Professional Services > Health and Beauty Service > Tanning Salon,Business and Professional Services , Health and Beauty Service 
+11075,Business and Professional Services > Health and Beauty Service > Tattoo Parlor,Business and Professional Services , Health and Beauty Service 
+11076,Business and Professional Services > Home Improvement Service,Business and Professional Services , Home Improvement Service
+11077,Business and Professional Services > Home Improvement Service > Bathroom Contractor,Business and Professional Services , Home Improvement Service 
+11078,Business and Professional Services > Home Improvement Service > Carpenter,Business and Professional Services , Home Improvement Service 
+11079,Business and Professional Services > Home Improvement Service > Carpet and Flooring Contractor,Business and Professional Services , Home Improvement Service 
+11080,Business and Professional Services > Home Improvement Service > Chimney Sweep,Business and Professional Services , Home Improvement Service 
+11081,Business and Professional Services > Home Improvement Service > Deck and Patio Contractor,Business and Professional Services , Home Improvement Service 
+11082,Business and Professional Services > Home Improvement Service > Doors and Windows Contractor,Business and Professional Services , Home Improvement Service 
+11083,Business and Professional Services > Home Improvement Service > Electrician,Business and Professional Services , Home Improvement Service 
+11084,Business and Professional Services > Home Improvement Service > Fence Contractor,Business and Professional Services , Home Improvement Service 
+11085,Business and Professional Services > Home Improvement Service > Garage Door Supplier,Business and Professional Services , Home Improvement Service 
+11086,Business and Professional Services > Home Improvement Service > General Contractor,Business and Professional Services , Home Improvement Service 
+11087,"Business and Professional Services > Home Improvement Service > Heating, Ventilating and Air Conditioning Contractor",Business and Professional Services , Home Improvement Service 
+11088,Business and Professional Services > Home Improvement Service > Home Inspection,Business and Professional Services , Home Improvement Service 
+11089,Business and Professional Services > Home Improvement Service > Home Service,Business and Professional Services , Home Improvement Service 
+11090,Business and Professional Services > Home Improvement Service > Interior Designer,Business and Professional Services , Home Improvement Service 
+11091,Business and Professional Services > Home Improvement Service > Kitchen Remodeler,Business and Professional Services , Home Improvement Service 
+11092,Business and Professional Services > Home Improvement Service > Landscaper and Gardener,Business and Professional Services , Home Improvement Service 
+11093,Business and Professional Services > Home Improvement Service > Mover,Business and Professional Services , Home Improvement Service 
+11094,Business and Professional Services > Home Improvement Service > Painter,Business and Professional Services , Home Improvement Service 
+11095,Business and Professional Services > Home Improvement Service > Pest Control Service,Business and Professional Services , Home Improvement Service 
+11096,Business and Professional Services > Home Improvement Service > Plumber,Business and Professional Services , Home Improvement Service 
+11097,Business and Professional Services > Home Improvement Service > Professional Cleaning Service,Business and Professional Services , Home Improvement Service 
+11098,Business and Professional Services > Home Improvement Service > Roofer,Business and Professional Services , Home Improvement Service 
+11099,Business and Professional Services > Home Improvement Service > Sewer Contractor,Business and Professional Services , Home Improvement Service 
+11100,Business and Professional Services > Home Improvement Service > Swimming Pool Maintenance and Service,Business and Professional Services , Home Improvement Service 
+11101,Business and Professional Services > Home Improvement Service > Tree Service,Business and Professional Services , Home Improvement Service 
+11102,Business and Professional Services > Home Improvement Service > Upholstery Service,Business and Professional Services , Home Improvement Service 
+11103,Business and Professional Services > Human Resources Agency,Business and Professional Services , Human Resources Agency
+11104,Business and Professional Services > Import and Export Service,Business and Professional Services , Import and Export Service
+11105,Business and Professional Services > Industrial Equipment Supplier,Business and Professional Services , Industrial Equipment Supplier
+11106,Business and Professional Services > Industrial Estate,Business and Professional Services , Industrial Estate
+11107,Business and Professional Services > Insurance Agency,Business and Professional Services , Insurance Agency
+11108,Business and Professional Services > Technology Business > IT Service,Business and Professional Services , Technology Business 
+11109,Business and Professional Services > Laboratory,Business and Professional Services , Laboratory
+11110,Business and Professional Services > Leather Supplier,Business and Professional Services , Leather Supplier
+11111,Business and Professional Services > Legal Service,Business and Professional Services , Legal Service
+11112,Business and Professional Services > Legal Service > Law Office,Business and Professional Services , Legal Service 
+11113,Business and Professional Services > Legal Service > Immigration Attorney,Business and Professional Services , Legal Service 
+11114,Business and Professional Services > Legal Service > Notary,Business and Professional Services , Legal Service 
+11115,Business and Professional Services > Locksmith,Business and Professional Services , Locksmith
+11116,Business and Professional Services > Logging Service,Business and Professional Services , Logging Service
+11117,Business and Professional Services > Lottery Retailer,Business and Professional Services , Lottery Retailer
+11118,Business and Professional Services > Machine Shop,Business and Professional Services , Machine Shop
+11119,Business and Professional Services > Management Consultant,Business and Professional Services , Management Consultant
+11120,Business and Professional Services > Manufacturer,Business and Professional Services , Manufacturer
+11121,Business and Professional Services > Media Agency,Business and Professional Services , Media Agency
+11122,Business and Professional Services > Metals Supplier,Business and Professional Services , Metals Supplier
+11123,Business and Professional Services > Mobile Company,Business and Professional Services , Mobile Company
+11124,Business and Professional Services > Office,Business and Professional Services , Office
+11125,Business and Professional Services > Office > Corporate Cafeteria,Business and Professional Services , Office 
+11126,Business and Professional Services > Office > Corporate Coffee Shop,Business and Professional Services , Office 
+11127,Business and Professional Services > Office > Corporate Housing Agency,Business and Professional Services , Office 
+11128,Business and Professional Services > Office > Coworking Space,Business and Professional Services , Office 
+11129,Business and Professional Services > Office > Meeting Room,Business and Professional Services , Office 
+11130,Business and Professional Services > Office > Office Building,Business and Professional Services , Office 
+11131,Business and Professional Services > Outdoor Event Space,Business and Professional Services , Outdoor Event Space
+11132,Business and Professional Services > Paper Supplier,Business and Professional Services , Paper Supplier
+11133,Business and Professional Services > Pet Service,Business and Professional Services , Pet Service
+11134,Business and Professional Services > Pet Service > Pet Grooming Service,Business and Professional Services , Pet Service 
+11135,Business and Professional Services > Pet Service > Pet Sitting and Boarding Service,Business and Professional Services , Pet Service 
+11136,Business and Professional Services > Petroleum Supplier,Business and Professional Services , Petroleum Supplier
+11137,Business and Professional Services > Photography Service,Business and Professional Services , Photography Service
+11138,Business and Professional Services > Photography Service > Photographer,Business and Professional Services , Photography Service 
+11139,Business and Professional Services > Photography Service > Photography Lab,Business and Professional Services , Photography Service 
+11140,Business and Professional Services > Photography Service > Photography Studio,Business and Professional Services , Photography Service 
+11141,Business and Professional Services > Plastics Supplier,Business and Professional Services , Plastics Supplier
+11142,Business and Professional Services > Power Plant,Business and Professional Services , Power Plant
+11143,Business and Professional Services > Publisher,Business and Professional Services , Publisher
+11144,Business and Professional Services > Radio Station,Business and Professional Services , Radio Station
+11145,Business and Professional Services > Real Estate Service,Business and Professional Services , Real Estate Service
+11146,Business and Professional Services > Real Estate Service > Building and Land Surveyor,Business and Professional Services , Real Estate Service 
+11147,Business and Professional Services > Real Estate Service > Commercial Real Estate Developer,Business and Professional Services , Real Estate Service 
+11148,Business and Professional Services > Real Estate Service > Property Management Office,Business and Professional Services , Real Estate Service 
+11149,Business and Professional Services > Real Estate Service > Real Estate Agency,Business and Professional Services , Real Estate Service 
+11150,Business and Professional Services > Real Estate Service > Real Estate Appraiser,Business and Professional Services , Real Estate Service 
+11151,Business and Professional Services > Real Estate Service > Real Estate Development and Title Company,Business and Professional Services , Real Estate Service 
+11152,Business and Professional Services > Recording Studio,Business and Professional Services , Recording Studio
+11153,Business and Professional Services > Recycling Facility,Business and Professional Services , Recycling Facility
+11154,Business and Professional Services > Refrigeration and Ice Supplier,Business and Professional Services , Refrigeration and Ice Supplier
+11155,Business and Professional Services > Renewable Energy Service,Business and Professional Services , Renewable Energy Service
+11156,Business and Professional Services > Rental Service,Business and Professional Services , Rental Service
+11157,Business and Professional Services > Repair Service,Business and Professional Services , Repair Service
+11158,Business and Professional Services > Research Station,Business and Professional Services , Research Station
+11159,Business and Professional Services > Rubber Supplier,Business and Professional Services , Rubber Supplier
+11160,Business and Professional Services > Salvage Yard,Business and Professional Services , Salvage Yard
+11161,Business and Professional Services > Scientific Equipment Supplier,Business and Professional Services , Scientific Equipment Supplier
+11162,Business and Professional Services > Security and Safety,Business and Professional Services , Security and Safety
+11163,"Business and Professional Services > Shipping, Freight, and Material Transportation Service",Business and Professional Services ," Shipping, Freight, and Material Transportation Service"
+11164,Business and Professional Services > Shoe Repair Service,Business and Professional Services , Shoe Repair Service
+11165,Business and Professional Services > Storage Facility,Business and Professional Services , Storage Facility
+11166,Business and Professional Services > Tailor,Business and Professional Services , Tailor
+11167,Business and Professional Services > Technology Business,Business and Professional Services , Technology Business
+11168,Business and Professional Services > Technology Business > Software Company,Business and Professional Services , Technology Business 
+11169,Business and Professional Services > Technology Business > Website Designer,Business and Professional Services , Technology Business 
+11170,Business and Professional Services > Telecommunication Service,Business and Professional Services , Telecommunication Service
+11171,Business and Professional Services > Translation Service,Business and Professional Services , Translation Service
+11172,Business and Professional Services > Tutoring Service,Business and Professional Services , Tutoring Service
+11173,Business and Professional Services > TV Station,Business and Professional Services , TV Station
+11174,Business and Professional Services > Warehouse,Business and Professional Services , Warehouse
+11175,Business and Professional Services > Waste Management Service,Business and Professional Services , Waste Management Service
+11176,Business and Professional Services > Water Treatment Service,Business and Professional Services , Water Treatment Service
+11177,Business and Professional Services > Wedding Hall,Business and Professional Services , Wedding Hall
+11178,Business and Professional Services > Welding Service,Business and Professional Services , Welding Service
+11179,Business and Professional Services > Wholesaler,Business and Professional Services , Wholesaler
+11180,Business and Professional Services > Office > Tech Startup,Business and Professional Services , Office 
+11181,Business and Professional Services > Appraiser,Business and Professional Services , Appraiser
+11182,Business and Professional Services > Business Service,Business and Professional Services , Business Service
+11183,Business and Professional Services > Convention Center > Conference Room,Business and Professional Services , Convention Center 
+11184,Business and Professional Services > Creative Service,Business and Professional Services , Creative Service
+11185,Business and Professional Services > Direct Mail and Email Marketing Service,Business and Professional Services , Direct Mail and Email Marketing Service
+11186,Business and Professional Services > Market Research and Consulting Service,Business and Professional Services , Market Research and Consulting Service
+11187,Business and Professional Services > Office > Corporate Amenity,Business and Professional Services , Office 
+11188,Business and Professional Services > Online Advertising Service,Business and Professional Services , Online Advertising Service
+11189,"Business and Professional Services > Print, TV, Radio and Outdoor Advertising Service",Business and Professional Services ," Print, TV, Radio and Outdoor Advertising Service"
+11190,Business and Professional Services > Promotional Item Service,Business and Professional Services , Promotional Item Service
+11191,Business and Professional Services > Public Relations Firm,Business and Professional Services , Public Relations Firm
+11192,Business and Professional Services > Research Laboratory,Business and Professional Services , Research Laboratory
+11193,Business and Professional Services > Search Engine Marketing and Optimization Service,Business and Professional Services , Search Engine Marketing and Optimization Service
+11194,"Business and Professional Services > Writing, Copywriting and Technical Writing Service",Business and Professional Services ," Writing, Copywriting and Technical Writing Service"
+12000,Community and Government,Community and Government,
+12001,Community and Government > Addiction Treatment Center,Community and Government , Addiction Treatment Center
+12002,Community and Government > Animal Shelter,Community and Government , Animal Shelter
+12003,Community and Government > Cemetery,Community and Government , Cemetery
+12004,Community and Government > Community Center,Community and Government , Community Center
+12005,Community and Government > Cultural Center,Community and Government , Cultural Center
+12006,Community and Government > Disabled Persons Service,Community and Government , Disabled Persons Service
+12007,Community and Government > Domestic Abuse Treatment Center,Community and Government , Domestic Abuse Treatment Center
+12008,Community and Government > Dump,Community and Government , Dump
+12009,Community and Government > Education,Community and Government , Education
+12010,Community and Government > Education > Adult Education,Community and Government , Education 
+12011,Community and Government > Education > Art School,Community and Government , Education 
+12012,Community and Government > Education > Circus School,Community and Government , Education 
+12013,Community and Government > Education > College and University,Community and Government , Education 
+12014,Community and Government > Education > College and University > College Academic Building,Community and Government , Education 
+12015,Community and Government > Education > College and University > College Administrative Building,Community and Government , Education 
+12016,Community and Government > Education > College and University > College Arts Building,Community and Government , Education 
+12017,Community and Government > Education > College and University > College Auditorium,Community and Government , Education 
+12018,Community and Government > Education > College and University > College Baseball Diamond,Community and Government , Education 
+12019,Community and Government > Education > College and University > College Basketball Court,Community and Government , Education 
+12020,Community and Government > Education > College and University > College Bookstore,Community and Government , Education 
+12021,Community and Government > Education > College and University > College Cafeteria,Community and Government , Education 
+12022,Community and Government > Education > College and University > College Classroom,Community and Government , Education 
+12023,Community and Government > Education > College and University > College Communications Building,Community and Government , Education 
+12024,Community and Government > Education > College and University > College Cricket Pitch,Community and Government , Education 
+12025,Community and Government > Education > College and University > College Engineering Building,Community and Government , Education 
+12026,Community and Government > Education > College and University > College Football Field,Community and Government , Education 
+12027,Community and Government > Education > College and University > College Gym,Community and Government , Education 
+12028,Community and Government > Education > College and University > College History Building,Community and Government , Education 
+12029,Community and Government > Education > College and University > College Hockey Rink,Community and Government , Education 
+12030,Community and Government > Education > College and University > College Lab,Community and Government , Education 
+12031,Community and Government > Education > College and University > College Library,Community and Government , Education 
+12032,Community and Government > Education > College and University > College Math Building,Community and Government , Education 
+12033,Community and Government > Education > College and University > College Quad,Community and Government , Education 
+12034,Community and Government > Education > College and University > College Rec Center,Community and Government , Education 
+12035,Community and Government > Education > College and University > College Residence Hall,Community and Government , Education 
+12036,Community and Government > Education > College and University > College Science Building,Community and Government , Education 
+12037,Community and Government > Education > College and University > College Soccer Field,Community and Government , Education 
+12038,Community and Government > Education > College and University > College Stadium,Community and Government , Education 
+12039,Community and Government > Education > College and University > College Technology Building,Community and Government , Education 
+12040,Community and Government > Education > College and University > College Tennis Court,Community and Government , Education 
+12041,Community and Government > Education > College and University > College Theater,Community and Government , Education 
+12042,Community and Government > Education > College and University > College Track,Community and Government , Education 
+12043,Community and Government > Education > College and University > Fraternity House,Community and Government , Education 
+12044,Community and Government > Education > College and University > Law School,Community and Government , Education 
+12045,Community and Government > Education > College and University > Medical School,Community and Government , Education 
+12046,Community and Government > Education > College and University > Sorority House,Community and Government , Education 
+12047,Community and Government > Education > College and University > Student Center,Community and Government , Education 
+12048,Community and Government > Education > College and University > Community College,Community and Government , Education 
+12049,Community and Government > Education > Computer Training School,Community and Government , Education 
+12050,Community and Government > Education > Culinary School,Community and Government , Education 
+12051,Community and Government > Education > Driving School,Community and Government , Education 
+12052,Community and Government > Education > Flight School,Community and Government , Education 
+12053,Community and Government > Education > Language School,Community and Government , Education 
+12054,Community and Government > Education > Music School,Community and Government , Education 
+12055,Community and Government > Education > Nursery School,Community and Government , Education 
+12056,Community and Government > Education > Preschool,Community and Government , Education 
+12057,Community and Government > Education > Primary and Secondary School,Community and Government , Education 
+12058,Community and Government > Education > Primary and Secondary School > Elementary School,Community and Government , Education 
+12059,Community and Government > Education > Primary and Secondary School > High School,Community and Government , Education 
+12060,Community and Government > Education > Primary and Secondary School > Middle School,Community and Government , Education 
+12061,Community and Government > Education > Private School,Community and Government , Education 
+12062,Community and Government > Education > Religious School,Community and Government , Education 
+12063,Community and Government > Education > Trade School,Community and Government , Education 
+12064,Community and Government > Government Building,Community and Government , Government Building
+12065,Community and Government > Government Building > Capitol Building,Community and Government , Government Building 
+12066,Community and Government > Government Building > City Hall,Community and Government , Government Building 
+12067,Community and Government > Government Building > Courthouse,Community and Government , Government Building 
+12068,Community and Government > Government Building > Embassy or Consulate,Community and Government , Government Building 
+12069,Community and Government > Government Building > Government Department,Community and Government , Government Building 
+12070,Community and Government > Government Building > Law Enforcement and Public Safety,Community and Government , Government Building 
+12071,Community and Government > Government Building > Law Enforcement and Public Safety > Fire Station,Community and Government , Government Building 
+12072,Community and Government > Government Building > Law Enforcement and Public Safety > Police Station,Community and Government , Government Building 
+12073,Community and Government > Government Building > Military,Community and Government , Government Building 
+12074,Community and Government > Government Building > Military > Military Base,Community and Government , Government Building 
+12075,Community and Government > Government Building > Post Office,Community and Government , Government Building 
+12076,Community and Government > Government Lobbyist,Community and Government , Government Lobbyist
+12077,Community and Government > Homeless Shelter,Community and Government , Homeless Shelter
+12078,Community and Government > Housing Authority,Community and Government , Housing Authority
+12079,Community and Government > Housing Development,Community and Government , Housing Development
+12080,Community and Government > Library,Community and Government , Library
+12081,Community and Government > Observatory,Community and Government , Observatory
+12082,Community and Government > Organization,Community and Government , Organization
+12083,Community and Government > Organization > Charity,Community and Government , Organization 
+12084,Community and Government > Organization > Club House,Community and Government , Organization 
+12085,Community and Government > Organization > Environmental Organization,Community and Government , Organization 
+12086,Community and Government > Organization > Non-Profit Organization,Community and Government , Organization 
+12087,Community and Government > Organization > Social Services Organization,Community and Government , Organization 
+12088,Community and Government > Organization > Veterans' Organization,Community and Government , Organization 
+12089,Community and Government > Organization > Youth Organization,Community and Government , Organization 
+12090,Community and Government > Prison,Community and Government , Prison
+12091,Community and Government > Public and Social Service,Community and Government , Public and Social Service
+12092,Community and Government > Public Bathroom,Community and Government , Public Bathroom
+12093,Community and Government > Rehabilitation Center,Community and Government , Rehabilitation Center
+12094,Community and Government > Residential Building,Community and Government , Residential Building
+12095,Community and Government > Retirement Home,Community and Government , Retirement Home
+12096,Community and Government > Senior Citizen Service,Community and Government , Senior Citizen Service
+12097,Community and Government > Social Club,Community and Government , Social Club
+12098,Community and Government > Spiritual Center,Community and Government , Spiritual Center
+12099,Community and Government > Spiritual Center > Buddhist Temple,Community and Government , Spiritual Center 
+12100,Community and Government > Spiritual Center > Cemevi,Community and Government , Spiritual Center 
+12101,Community and Government > Spiritual Center > Church,Community and Government , Spiritual Center 
+12102,Community and Government > Spiritual Center > Confucian Temple,Community and Government , Spiritual Center 
+12103,Community and Government > Spiritual Center > Hindu Temple,Community and Government , Spiritual Center 
+12104,Community and Government > Spiritual Center > Kingdom Hall,Community and Government , Spiritual Center 
+12105,Community and Government > Spiritual Center > Monastery,Community and Government , Spiritual Center 
+12106,Community and Government > Spiritual Center > Mosque,Community and Government , Spiritual Center 
+12107,Community and Government > Spiritual Center > Prayer Room,Community and Government , Spiritual Center 
+12108,Community and Government > Spiritual Center > Shrine,Community and Government , Spiritual Center 
+12109,Community and Government > Spiritual Center > Sikh Temple,Community and Government , Spiritual Center 
+12110,Community and Government > Spiritual Center > Synagogue,Community and Government , Spiritual Center 
+12111,Community and Government > Spiritual Center > Temple,Community and Government , Spiritual Center 
+12112,Community and Government > Spiritual Center > Terreiro,Community and Government , Spiritual Center 
+12113,Community and Government > Summer Camp,Community and Government , Summer Camp
+12114,Community and Government > Trailer Park,Community and Government , Trailer Park
+12115,Community and Government > Utility Company,Community and Government , Utility Company
+12116,Community and Government > Polling Place,Community and Government , Polling Place
+12117,Community and Government > Assisted Living,Community and Government , Assisted Living
+12118,Community and Government > Government Building > Law Enforcement and Public Safety > Probation Office,Community and Government , Government Building 
+12119,Community and Government > Government Building > Law Enforcement and Public Safety > Rescue Service,Community and Government , Government Building 
+12120,Community and Government > Organization > Labor Union,Community and Government , Organization 
+12121,Community and Government > Organization > LGBTQ Organization,Community and Government , Organization 
+12122,Community and Government > Residential Building > Apartment or Condo,Community and Government , Residential Building 
+12123,Community and Government > Residential Building > Home (private),Community and Government , Residential Building 
+12124,Community and Government > Town Hall,Community and Government , Town Hall
+12125,Community and Government > Education > College and University > University,Community and Government , Education 
+13000,Dining and Drinking,Dining and Drinking,
+13001,Dining and Drinking > Bagel Shop,Dining and Drinking , Bagel Shop
+13002,Dining and Drinking > Bakery,Dining and Drinking , Bakery
+13003,Dining and Drinking > Bar,Dining and Drinking , Bar
+13004,Dining and Drinking > Bar > Apres Ski Bar,Dining and Drinking , Bar 
+13005,Dining and Drinking > Bar > Beach Bar,Dining and Drinking , Bar 
+13006,Dining and Drinking > Bar > Beer Bar,Dining and Drinking , Bar 
+13007,Dining and Drinking > Bar > Beer Garden,Dining and Drinking , Bar 
+13008,Dining and Drinking > Bar > Champagne Bar,Dining and Drinking , Bar 
+13009,Dining and Drinking > Bar > Cocktail Bar,Dining and Drinking , Bar 
+13010,Dining and Drinking > Bar > Dive Bar,Dining and Drinking , Bar 
+13011,Dining and Drinking > Bar > Gay Bar,Dining and Drinking , Bar 
+13012,Dining and Drinking > Bar > Hookah Bar,Dining and Drinking , Bar 
+13013,Dining and Drinking > Bar > Hotel Bar,Dining and Drinking , Bar 
+13014,Dining and Drinking > Bar > Ice Bar,Dining and Drinking , Bar 
+13015,Dining and Drinking > Bar > Karaoke Bar,Dining and Drinking , Bar 
+13016,Dining and Drinking > Bar > Lounge,Dining and Drinking , Bar 
+13017,Dining and Drinking > Bar > Piano Bar,Dining and Drinking , Bar 
+13018,Dining and Drinking > Bar > Pub,Dining and Drinking , Bar 
+13019,Dining and Drinking > Bar > Rooftop Bar,Dining and Drinking , Bar 
+13020,Dining and Drinking > Bar > Sake Bar,Dining and Drinking , Bar 
+13021,Dining and Drinking > Bar > Speakeasy,Dining and Drinking , Bar 
+13022,Dining and Drinking > Bar > Sports Bar,Dining and Drinking , Bar 
+13023,Dining and Drinking > Bar > Tiki Bar,Dining and Drinking , Bar 
+13024,Dining and Drinking > Bar > Whisky Bar,Dining and Drinking , Bar 
+13025,Dining and Drinking > Bar > Wine Bar,Dining and Drinking , Bar 
+13026,Dining and Drinking > Restaurant > BBQ Joint,Dining and Drinking , Restaurant 
+13027,Dining and Drinking > Restaurant > Bistro,Dining and Drinking , Restaurant 
+13028,Dining and Drinking > Breakfast Spot,Dining and Drinking , Breakfast Spot
+13029,Dining and Drinking > Brewery,Dining and Drinking , Brewery
+13030,Dining and Drinking > Restaurant > Buffet,Dining and Drinking , Restaurant 
+13031,Dining and Drinking > Restaurant > Burger Joint,Dining and Drinking , Restaurant 
+13032,"Dining and Drinking > Cafe, Coffee, and Tea House",Dining and Drinking ," Cafe, Coffee, and Tea House"
+13033,"Dining and Drinking > Cafe, Coffee, and Tea House > Bubble Tea Shop",Dining and Drinking ," Cafe, Coffee, and Tea House "
+13034,"Dining and Drinking > Cafe, Coffee, and Tea House > Café",Dining and Drinking ," Cafe, Coffee, and Tea House "
+13035,"Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",Dining and Drinking ," Cafe, Coffee, and Tea House "
+13036,"Dining and Drinking > Cafe, Coffee, and Tea House > Tea Room",Dining and Drinking ," Cafe, Coffee, and Tea House "
+13037,Dining and Drinking > Cafeteria,Dining and Drinking , Cafeteria
+13038,Dining and Drinking > Cidery,Dining and Drinking , Cidery
+13039,Dining and Drinking > Restaurant > Deli,Dining and Drinking , Restaurant 
+13040,Dining and Drinking > Dessert Shop,Dining and Drinking , Dessert Shop
+13041,Dining and Drinking > Creperie,Dining and Drinking , Creperie
+13042,Dining and Drinking > Dessert Shop > Cupcake Shop,Dining and Drinking , Dessert Shop 
+13043,Dining and Drinking > Donut Shop,Dining and Drinking , Donut Shop
+13044,Dining and Drinking > Dessert Shop > Frozen Yogurt Shop,Dining and Drinking , Dessert Shop 
+13045,Dining and Drinking > Dessert Shop > Gelato Shop,Dining and Drinking , Dessert Shop 
+13046,Dining and Drinking > Dessert Shop > Ice Cream Parlor,Dining and Drinking , Dessert Shop 
+13047,Dining and Drinking > Dessert Shop > Pastry Shop,Dining and Drinking , Dessert Shop 
+13048,Dining and Drinking > Dessert Shop > Pie Shop,Dining and Drinking , Dessert Shop 
+13049,Dining and Drinking > Restaurant > Diner,Dining and Drinking , Restaurant 
+13050,Dining and Drinking > Distillery,Dining and Drinking , Distillery
+13051,Dining and Drinking > Restaurant > Fish and Chips Shop,Dining and Drinking , Restaurant 
+13052,Dining and Drinking > Food Court,Dining and Drinking , Food Court
+13053,Dining and Drinking > Food Stand,Dining and Drinking , Food Stand
+13054,Dining and Drinking > Food Truck,Dining and Drinking , Food Truck
+13055,Dining and Drinking > Restaurant > Fried Chicken Joint,Dining and Drinking , Restaurant 
+13056,Dining and Drinking > Restaurant > Friterie,Dining and Drinking , Restaurant 
+13057,Dining and Drinking > Restaurant > Gastropub,Dining and Drinking , Restaurant 
+13058,Dining and Drinking > Restaurant > Hot Dog Joint,Dining and Drinking , Restaurant 
+13059,Dining and Drinking > Juice Bar,Dining and Drinking , Juice Bar
+13060,Dining and Drinking > Restaurant > Mac and Cheese Joint,Dining and Drinking , Restaurant 
+13061,Dining and Drinking > Meadery,Dining and Drinking , Meadery
+13062,Dining and Drinking > Night Market,Dining and Drinking , Night Market
+13063,"Dining and Drinking > Cafe, Coffee, and Tea House > Pet Café",Dining and Drinking ," Cafe, Coffee, and Tea House "
+13064,Dining and Drinking > Restaurant > Pizzeria,Dining and Drinking , Restaurant 
+13065,Dining and Drinking > Restaurant,Dining and Drinking , Restaurant
+13066,Dining and Drinking > Restaurant > Afghan Restaurant,Dining and Drinking , Restaurant 
+13067,Dining and Drinking > Restaurant > African Restaurant,Dining and Drinking , Restaurant 
+13068,Dining and Drinking > Restaurant > American Restaurant,Dining and Drinking , Restaurant 
+13069,Dining and Drinking > Restaurant > Latin American Restaurant > Arepa Restaurant,Dining and Drinking , Restaurant 
+13070,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Argentinian Restaurant ,Dining and Drinking , Restaurant 
+13071,Dining and Drinking > Restaurant > Armenian Restaurant,Dining and Drinking , Restaurant 
+13072,Dining and Drinking > Restaurant > Asian Restaurant,Dining and Drinking , Restaurant 
+13073,Dining and Drinking > Restaurant > Australian Restaurant,Dining and Drinking , Restaurant 
+13074,Dining and Drinking > Restaurant > Austrian Restaurant,Dining and Drinking , Restaurant 
+13075,Dining and Drinking > Restaurant > Bangladeshi Restaurant,Dining and Drinking , Restaurant 
+13076,Dining and Drinking > Restaurant > Eastern European Restaurant > Belarusian Restaurant,Dining and Drinking , Restaurant 
+13077,Dining and Drinking > Restaurant > Belgian Restaurant,Dining and Drinking , Restaurant 
+13078,Dining and Drinking > Restaurant > Eastern European Restaurant > Bosnian Restaurant,Dining and Drinking , Restaurant 
+13079,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant,Dining and Drinking , Restaurant 
+13080,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Acai House,Dining and Drinking , Restaurant 
+13081,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Baiano Restaurant,Dining and Drinking , Restaurant 
+13082,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Central Brazilian Restaurant ,Dining and Drinking , Restaurant 
+13083,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Churrascaria,Dining and Drinking , Restaurant 
+13084,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Empada House,Dining and Drinking , Restaurant 
+13085,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Goiano Restaurant,Dining and Drinking , Restaurant 
+13086,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Mineiro Restaurant,Dining and Drinking , Restaurant 
+13087,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Northeastern Brazilian Restaurant,Dining and Drinking , Restaurant 
+13088,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Northern Brazilian Restaurant,Dining and Drinking , Restaurant 
+13089,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Pastelaria,Dining and Drinking , Restaurant 
+13090,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Southeastern Brazilian Restaurant,Dining and Drinking , Restaurant 
+13091,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Southern Brazilian Restaurant,Dining and Drinking , Restaurant 
+13092,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant > Tapiocaria,Dining and Drinking , Restaurant 
+13093,Dining and Drinking > Restaurant > Eastern European Restaurant > Bulgarian Restaurant,Dining and Drinking , Restaurant 
+13094,Dining and Drinking > Restaurant > Asian Restaurant > Burmese Restaurant,Dining and Drinking , Restaurant 
+13095,Dining and Drinking > Restaurant > Cajun and Creole Restaurant,Dining and Drinking , Restaurant 
+13096,Dining and Drinking > Restaurant > Asian Restaurant > Cambodian Restaurant,Dining and Drinking , Restaurant 
+13097,Dining and Drinking > Restaurant > Caribbean Restaurant,Dining and Drinking , Restaurant 
+13098,Dining and Drinking > Restaurant > Caucasian Restaurant,Dining and Drinking , Restaurant 
+13099,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant,Dining and Drinking , Restaurant 
+13100,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Anhui Restaurant,Dining and Drinking , Restaurant 
+13101,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Beijing Restaurant,Dining and Drinking , Restaurant 
+13102,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Cantonese Restaurant,Dining and Drinking , Restaurant 
+13103,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Cha Chaan Teng,Dining and Drinking , Restaurant 
+13104,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Chinese Aristocrat Restaurant,Dining and Drinking , Restaurant 
+13105,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Chinese Breakfast Restaurant,Dining and Drinking , Restaurant 
+13106,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Dim Sum Restaurant,Dining and Drinking , Restaurant 
+13107,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Dongbei Restaurant,Dining and Drinking , Restaurant 
+13108,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Fujian Restaurant,Dining and Drinking , Restaurant 
+13109,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Guizhou Restaurant,Dining and Drinking , Restaurant 
+13110,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Hainan Restaurant,Dining and Drinking , Restaurant 
+13111,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Hakka Restaurant,Dining and Drinking , Restaurant 
+13112,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Henan Restaurant,Dining and Drinking , Restaurant 
+13113,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Hong Kong Restaurant,Dining and Drinking , Restaurant 
+13114,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Huaiyang Restaurant,Dining and Drinking , Restaurant 
+13115,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Hubei Restaurant,Dining and Drinking , Restaurant 
+13116,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Hunan Restaurant,Dining and Drinking , Restaurant 
+13117,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Imperial Restaurant,Dining and Drinking , Restaurant 
+13118,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Jiangsu Restaurant,Dining and Drinking , Restaurant 
+13119,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Jiangxi Restaurant,Dining and Drinking , Restaurant 
+13120,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Macanese Restaurant,Dining and Drinking , Restaurant 
+13121,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Manchu Restaurant,Dining and Drinking , Restaurant 
+13122,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Peking Duck Restaurant,Dining and Drinking , Restaurant 
+13123,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Shaanxi Restaurant,Dining and Drinking , Restaurant 
+13124,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Shandong Restaurant,Dining and Drinking , Restaurant 
+13125,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Shanghai Restaurant,Dining and Drinking , Restaurant 
+13126,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Shanxi Restaurant,Dining and Drinking , Restaurant 
+13127,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Szechuan Restaurant,Dining and Drinking , Restaurant 
+13128,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Taiwanese Restaurant,Dining and Drinking , Restaurant 
+13129,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Tianjin Restaurant,Dining and Drinking , Restaurant 
+13130,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Xinjiang Restaurant,Dining and Drinking , Restaurant 
+13131,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Yunnan Restaurant,Dining and Drinking , Restaurant 
+13132,Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Zhejiang Restaurant,Dining and Drinking , Restaurant 
+13133,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Colombian Restaurant,Dining and Drinking , Restaurant 
+13134,Dining and Drinking > Restaurant > Comfort Food Restaurant,Dining and Drinking , Restaurant 
+13135,Dining and Drinking > Restaurant > Caribbean Restaurant > Cuban Restaurant,Dining and Drinking , Restaurant 
+13136,Dining and Drinking > Restaurant > Czech Restaurant,Dining and Drinking , Restaurant 
+13137,Dining and Drinking > Restaurant > Dumpling Restaurant,Dining and Drinking , Restaurant 
+13138,Dining and Drinking > Restaurant > Dutch Restaurant,Dining and Drinking , Restaurant 
+13139,Dining and Drinking > Restaurant > Eastern European Restaurant,Dining and Drinking , Restaurant 
+13140,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Egyptian Restaurant,Dining and Drinking , Restaurant 
+13141,Dining and Drinking > Restaurant > Latin American Restaurant > Empanada Restaurant,Dining and Drinking , Restaurant 
+13142,Dining and Drinking > Restaurant > English Restaurant,Dining and Drinking , Restaurant 
+13143,Dining and Drinking > Restaurant > African Restaurant > Ethiopian Restaurant,Dining and Drinking , Restaurant 
+13144,Dining and Drinking > Restaurant > Falafel Restaurant,Dining and Drinking , Restaurant 
+13145,Dining and Drinking > Restaurant > Fast Food Restaurant,Dining and Drinking , Restaurant 
+13146,Dining and Drinking > Restaurant > Asian Restaurant > Filipino Restaurant,Dining and Drinking , Restaurant 
+13147,Dining and Drinking > Restaurant > Fondue Restaurant,Dining and Drinking , Restaurant 
+13148,Dining and Drinking > Restaurant > French Restaurant,Dining and Drinking , Restaurant 
+13149,Dining and Drinking > Restaurant > French Restaurant > Alsatian Restaurant,Dining and Drinking , Restaurant 
+13150,Dining and Drinking > Restaurant > French Restaurant > Auvergne Restaurant,Dining and Drinking , Restaurant 
+13151,Dining and Drinking > Restaurant > French Restaurant > Basque Restaurant,Dining and Drinking , Restaurant 
+13152,Dining and Drinking > Restaurant > French Restaurant > Brasserie,Dining and Drinking , Restaurant 
+13153,Dining and Drinking > Restaurant > French Restaurant > Breton Restaurant,Dining and Drinking , Restaurant 
+13154,Dining and Drinking > Restaurant > French Restaurant > Burgundian Restaurant,Dining and Drinking , Restaurant 
+13155,Dining and Drinking > Restaurant > French Restaurant > Catalan Restaurant,Dining and Drinking , Restaurant 
+13156,Dining and Drinking > Restaurant > French Restaurant > Ch'ti Restaurant,Dining and Drinking , Restaurant 
+13157,Dining and Drinking > Restaurant > French Restaurant > Corsican Restaurant,Dining and Drinking , Restaurant 
+13158,Dining and Drinking > Restaurant > French Restaurant > Estaminet,Dining and Drinking , Restaurant 
+13159,Dining and Drinking > Restaurant > French Restaurant > Labour Canteen,Dining and Drinking , Restaurant 
+13160,Dining and Drinking > Restaurant > French Restaurant > Lyonese Bouchon,Dining and Drinking , Restaurant 
+13161,Dining and Drinking > Restaurant > French Restaurant > Norman Restaurant,Dining and Drinking , Restaurant 
+13162,Dining and Drinking > Restaurant > French Restaurant > Provençal Restaurant,Dining and Drinking , Restaurant 
+13163,Dining and Drinking > Restaurant > French Restaurant > Savoyard Restaurant,Dining and Drinking , Restaurant 
+13164,Dining and Drinking > Restaurant > French Restaurant > Southwestern French Restaurant,Dining and Drinking , Restaurant 
+13165,Dining and Drinking > Restaurant > German Restaurant,Dining and Drinking , Restaurant 
+13166,Dining and Drinking > Restaurant > German Restaurant > Apple Wine Pub,Dining and Drinking , Restaurant 
+13167,Dining and Drinking > Restaurant > German Restaurant > Bavarian Restaurant,Dining and Drinking , Restaurant 
+13168,Dining and Drinking > Restaurant > German Restaurant > Bratwurst Joint,Dining and Drinking , Restaurant 
+13169,Dining and Drinking > Restaurant > German Restaurant > Currywurst Joint,Dining and Drinking , Restaurant 
+13170,Dining and Drinking > Restaurant > German Restaurant > Franconian Restaurant,Dining and Drinking , Restaurant 
+13171,Dining and Drinking > Restaurant > German Restaurant > German Pop-Up Restaurant,Dining and Drinking , Restaurant 
+13172,Dining and Drinking > Restaurant > German Restaurant > Palatine Restaurant,Dining and Drinking , Restaurant 
+13173,Dining and Drinking > Restaurant > German Restaurant > Rhenisch Restaurant,Dining and Drinking , Restaurant 
+13174,Dining and Drinking > Restaurant > German Restaurant > Schnitzel Restaurant,Dining and Drinking , Restaurant 
+13175,Dining and Drinking > Restaurant > German Restaurant > Silesian Restaurant,Dining and Drinking , Restaurant 
+13176,Dining and Drinking > Restaurant > German Restaurant > Swabian Restaurant,Dining and Drinking , Restaurant 
+13177,Dining and Drinking > Restaurant > Greek Restaurant,Dining and Drinking , Restaurant 
+13178,Dining and Drinking > Restaurant > Greek Restaurant > Bougatsa Shop,Dining and Drinking , Restaurant 
+13179,Dining and Drinking > Restaurant > Greek Restaurant > Cretan Restaurant,Dining and Drinking , Restaurant 
+13180,Dining and Drinking > Restaurant > Greek Restaurant > Fish Taverna,Dining and Drinking , Restaurant 
+13181,Dining and Drinking > Restaurant > Greek Restaurant > Grilled Meat Restaurant,Dining and Drinking , Restaurant 
+13182,Dining and Drinking > Restaurant > Greek Restaurant > Kafenio,Dining and Drinking , Restaurant 
+13183,Dining and Drinking > Restaurant > Greek Restaurant > Magirio,Dining and Drinking , Restaurant 
+13184,Dining and Drinking > Restaurant > Greek Restaurant > Meze Restaurant,Dining and Drinking , Restaurant 
+13185,Dining and Drinking > Restaurant > Greek Restaurant > Modern Greek Restaurant,Dining and Drinking , Restaurant 
+13186,Dining and Drinking > Restaurant > Greek Restaurant > Ouzeri,Dining and Drinking , Restaurant 
+13187,Dining and Drinking > Restaurant > Greek Restaurant > Patsa Restaurant,Dining and Drinking , Restaurant 
+13188,Dining and Drinking > Restaurant > Greek Restaurant > Souvlaki Shop,Dining and Drinking , Restaurant 
+13189,Dining and Drinking > Restaurant > Greek Restaurant > Taverna,Dining and Drinking , Restaurant 
+13190,Dining and Drinking > Restaurant > Greek Restaurant > Tsipouro Restaurant,Dining and Drinking , Restaurant 
+13191,Dining and Drinking > Restaurant > Halal Restaurant,Dining and Drinking , Restaurant 
+13192,Dining and Drinking > Restaurant > Hawaiian Restaurant,Dining and Drinking , Restaurant 
+13193,Dining and Drinking > Restaurant > Hawaiian Restaurant > Poke Restaurant,Dining and Drinking , Restaurant 
+13194,Dining and Drinking > Restaurant > Asian Restaurant > Himalayan Restaurant,Dining and Drinking , Restaurant 
+13195,Dining and Drinking > Restaurant > Latin American Restaurant > Honduran Restaurant,Dining and Drinking , Restaurant 
+13196,Dining and Drinking > Restaurant > Asian Restaurant > Hotpot Restaurant,Dining and Drinking , Restaurant 
+13197,Dining and Drinking > Restaurant > Hungarian Restaurant,Dining and Drinking , Restaurant 
+13198,Dining and Drinking > Restaurant > Indian Chinese Restaurant,Dining and Drinking , Restaurant 
+13199,Dining and Drinking > Restaurant > Indian Restaurant,Dining and Drinking , Restaurant 
+13200,Dining and Drinking > Restaurant > Indian Restaurant > Andhra Restaurant,Dining and Drinking , Restaurant 
+13201,Dining and Drinking > Restaurant > Indian Restaurant > Awadhi Restaurant,Dining and Drinking , Restaurant 
+13202,Dining and Drinking > Restaurant > Indian Restaurant > Bengali Restaurant,Dining and Drinking , Restaurant 
+13203,Dining and Drinking > Restaurant > Indian Restaurant > Chaat Place,Dining and Drinking , Restaurant 
+13204,Dining and Drinking > Restaurant > Indian Restaurant > Chettinad Restaurant,Dining and Drinking , Restaurant 
+13205,Dining and Drinking > Restaurant > Indian Restaurant > Dhaba,Dining and Drinking , Restaurant 
+13206,Dining and Drinking > Restaurant > Indian Restaurant > Dosa Place,Dining and Drinking , Restaurant 
+13207,Dining and Drinking > Restaurant > Indian Restaurant > Goan Restaurant,Dining and Drinking , Restaurant 
+13208,Dining and Drinking > Restaurant > Indian Restaurant > Gujarati Restaurant,Dining and Drinking , Restaurant 
+13209,Dining and Drinking > Restaurant > Indian Restaurant > Hyderabadi Restaurant,Dining and Drinking , Restaurant 
+13210,Dining and Drinking > Restaurant > Indian Restaurant > Indian Sweet Shop,Dining and Drinking , Restaurant 
+13211,Dining and Drinking > Restaurant > Indian Restaurant > Irani Cafe,Dining and Drinking , Restaurant 
+13212,Dining and Drinking > Restaurant > Indian Restaurant > Jain Restaurant,Dining and Drinking , Restaurant 
+13213,Dining and Drinking > Restaurant > Indian Restaurant > Karnataka Restaurant,Dining and Drinking , Restaurant 
+13214,Dining and Drinking > Restaurant > Indian Restaurant > Kerala Restaurant,Dining and Drinking , Restaurant 
+13215,Dining and Drinking > Restaurant > Indian Restaurant > Maharashtrian Restaurant,Dining and Drinking , Restaurant 
+13216,Dining and Drinking > Restaurant > Indian Restaurant > Mughlai Restaurant,Dining and Drinking , Restaurant 
+13217,Dining and Drinking > Restaurant > Indian Restaurant > Multicuisine Indian Restaurant,Dining and Drinking , Restaurant 
+13218,Dining and Drinking > Restaurant > Indian Restaurant > North Indian Restaurant,Dining and Drinking , Restaurant 
+13219,Dining and Drinking > Restaurant > Indian Restaurant > Northeast Indian Restaurant,Dining and Drinking , Restaurant 
+13220,Dining and Drinking > Restaurant > Indian Restaurant > Parsi Restaurant,Dining and Drinking , Restaurant 
+13221,Dining and Drinking > Restaurant > Indian Restaurant > Punjabi Restaurant,Dining and Drinking , Restaurant 
+13222,Dining and Drinking > Restaurant > Indian Restaurant > Rajasthani Restaurant,Dining and Drinking , Restaurant 
+13223,Dining and Drinking > Restaurant > Indian Restaurant > South Indian Restaurant,Dining and Drinking , Restaurant 
+13224,Dining and Drinking > Restaurant > Indian Restaurant > Udupi Restaurant,Dining and Drinking , Restaurant 
+13225,Dining and Drinking > Restaurant > Asian Restaurant > Indonesian Restaurant,Dining and Drinking , Restaurant 
+13226,Dining and Drinking > Restaurant > Asian Restaurant > Indonesian Restaurant > Acehnese Restaurant,Dining and Drinking , Restaurant 
+13227,Dining and Drinking > Restaurant > Asian Restaurant > Indonesian Restaurant > Balinese Restaurant,Dining and Drinking , Restaurant 
+13228,Dining and Drinking > Restaurant > Asian Restaurant > Indonesian Restaurant > Betawinese Restaurant,Dining and Drinking , Restaurant 
+13229,Dining and Drinking > Restaurant > Asian Restaurant > Indonesian Restaurant > Indonesian Meatball Restaurant,Dining and Drinking , Restaurant 
+13230,Dining and Drinking > Restaurant > Asian Restaurant > Indonesian Restaurant > Javanese Restaurant,Dining and Drinking , Restaurant 
+13231,Dining and Drinking > Restaurant > Asian Restaurant > Indonesian Restaurant > Manadonese Restaurant,Dining and Drinking , Restaurant 
+13232,Dining and Drinking > Restaurant > Asian Restaurant > Indonesian Restaurant > Padangnese Restaurant,Dining and Drinking , Restaurant 
+13233,Dining and Drinking > Restaurant > Asian Restaurant > Indonesian Restaurant > Sundanese Restaurant,Dining and Drinking , Restaurant 
+13234,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Iraqi Restaurant,Dining and Drinking , Restaurant 
+13235,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Israeli Restaurant,Dining and Drinking , Restaurant 
+13236,Dining and Drinking > Restaurant > Italian Restaurant,Dining and Drinking , Restaurant 
+13237,Dining and Drinking > Restaurant > Italian Restaurant > Abruzzo Restaurant,Dining and Drinking , Restaurant 
+13238,Dining and Drinking > Restaurant > Italian Restaurant > Agriturismo,Dining and Drinking , Restaurant 
+13239,Dining and Drinking > Restaurant > Italian Restaurant > Aosta Restaurant,Dining and Drinking , Restaurant 
+13240,Dining and Drinking > Restaurant > Italian Restaurant > Basilicata Restaurant,Dining and Drinking , Restaurant 
+13241,Dining and Drinking > Restaurant > Italian Restaurant > Calabria Restaurant,Dining and Drinking , Restaurant 
+13242,Dining and Drinking > Restaurant > Italian Restaurant > Campanian Restaurant,Dining and Drinking , Restaurant 
+13243,Dining and Drinking > Restaurant > Italian Restaurant > Emilia Restaurant,Dining and Drinking , Restaurant 
+13244,Dining and Drinking > Restaurant > Italian Restaurant > Friuli Restaurant,Dining and Drinking , Restaurant 
+13245,Dining and Drinking > Restaurant > Italian Restaurant > Ligurian Restaurant,Dining and Drinking , Restaurant 
+13246,Dining and Drinking > Restaurant > Italian Restaurant > Lombard Restaurant,Dining and Drinking , Restaurant 
+13247,Dining and Drinking > Restaurant > Italian Restaurant > Malga,Dining and Drinking , Restaurant 
+13248,Dining and Drinking > Restaurant > Italian Restaurant > Marche Restaurant,Dining and Drinking , Restaurant 
+13249,Dining and Drinking > Restaurant > Italian Restaurant > Molise Restaurant,Dining and Drinking , Restaurant 
+13250,Dining and Drinking > Restaurant > Italian Restaurant > Piadineria,Dining and Drinking , Restaurant 
+13251,Dining and Drinking > Restaurant > Italian Restaurant > Piedmontese Restaurant,Dining and Drinking , Restaurant 
+13252,Dining and Drinking > Restaurant > Italian Restaurant > Puglia Restaurant,Dining and Drinking , Restaurant 
+13253,Dining and Drinking > Restaurant > Italian Restaurant > Romagna Restaurant,Dining and Drinking , Restaurant 
+13254,Dining and Drinking > Restaurant > Italian Restaurant > Roman Restaurant,Dining and Drinking , Restaurant 
+13255,Dining and Drinking > Restaurant > Italian Restaurant > Sardinian Restaurant,Dining and Drinking , Restaurant 
+13256,Dining and Drinking > Restaurant > Italian Restaurant > Sicilian Restaurant,Dining and Drinking , Restaurant 
+13257,Dining and Drinking > Restaurant > Italian Restaurant > South Tyrolean Restaurant,Dining and Drinking , Restaurant 
+13258,Dining and Drinking > Restaurant > Italian Restaurant > Trattoria,Dining and Drinking , Restaurant 
+13259,Dining and Drinking > Restaurant > Italian Restaurant > Trentino Restaurant,Dining and Drinking , Restaurant 
+13260,Dining and Drinking > Restaurant > Italian Restaurant > Tuscan Restaurant,Dining and Drinking , Restaurant 
+13261,Dining and Drinking > Restaurant > Italian Restaurant > Umbrian Restaurant,Dining and Drinking , Restaurant 
+13262,Dining and Drinking > Restaurant > Italian Restaurant > Veneto Restaurant,Dining and Drinking , Restaurant 
+13263,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant,Dining and Drinking , Restaurant 
+13264,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Donburi Restaurant,Dining and Drinking , Restaurant 
+13265,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Japanese Curry Restaurant,Dining and Drinking , Restaurant 
+13266,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Japanese Family Restaurant,Dining and Drinking , Restaurant 
+13267,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Kaiseki Restaurant,Dining and Drinking , Restaurant 
+13268,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Kushikatsu Restaurant,Dining and Drinking , Restaurant 
+13269,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Monjayaki Restaurant,Dining and Drinking , Restaurant 
+13270,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Nabe Restaurant,Dining and Drinking , Restaurant 
+13271,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Okonomiyaki Restaurant,Dining and Drinking , Restaurant 
+13272,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Ramen Restaurant,Dining and Drinking , Restaurant 
+13273,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Shabu-Shabu Restaurant,Dining and Drinking , Restaurant 
+13274,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Soba Restaurant,Dining and Drinking , Restaurant 
+13275,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Sukiyaki Restaurant,Dining and Drinking , Restaurant 
+13276,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Sushi Restaurant,Dining and Drinking , Restaurant 
+13277,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Takoyaki Place,Dining and Drinking , Restaurant 
+13278,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Teishoku Restaurant,Dining and Drinking , Restaurant 
+13279,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Tempura Restaurant,Dining and Drinking , Restaurant 
+13280,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Tonkatsu Restaurant,Dining and Drinking , Restaurant 
+13281,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Udon Restaurant,Dining and Drinking , Restaurant 
+13282,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Unagi Restaurant,Dining and Drinking , Restaurant 
+13283,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Wagashi Place,Dining and Drinking , Restaurant 
+13284,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Yakitori Restaurant,Dining and Drinking , Restaurant 
+13285,Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Yoshoku Restaurant,Dining and Drinking , Restaurant 
+13286,Dining and Drinking > Restaurant > Jewish Restaurant,Dining and Drinking , Restaurant 
+13287,Dining and Drinking > Restaurant > Jewish Restaurant > Kosher Restaurant,Dining and Drinking , Restaurant 
+13288,Dining and Drinking > Restaurant > Kebab Restaurant,Dining and Drinking , Restaurant 
+13289,Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant,Dining and Drinking , Restaurant 
+13290,Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant > Bossam/Jokbal Restaurant,Dining and Drinking , Restaurant 
+13291,Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant > Bunsik Restaurant,Dining and Drinking , Restaurant 
+13292,Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant > Gukbap Restaurant,Dining and Drinking , Restaurant 
+13293,Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant > Janguh Restaurant,Dining and Drinking , Restaurant 
+13294,Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant > Korean BBQ Restaurant,Dining and Drinking , Restaurant 
+13295,Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant > Samgyetang Restaurant,Dining and Drinking , Restaurant 
+13296,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Kurdish Restaurant,Dining and Drinking , Restaurant 
+13297,Dining and Drinking > Restaurant > Latin American Restaurant,Dining and Drinking , Restaurant 
+13298,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Lebanese Restaurant,Dining and Drinking , Restaurant 
+13299,Dining and Drinking > Restaurant > Asian Restaurant > Malay Restaurant,Dining and Drinking , Restaurant 
+13300,Dining and Drinking > Restaurant > Asian Restaurant > Malay Restaurant > Mamak Restaurant,Dining and Drinking , Restaurant 
+13301,Dining and Drinking > Restaurant > African Restaurant > Mauritian Restaurant,Dining and Drinking , Restaurant 
+13302,Dining and Drinking > Restaurant > Mediterranean Restaurant,Dining and Drinking , Restaurant 
+13303,Dining and Drinking > Restaurant > Mexican Restaurant,Dining and Drinking , Restaurant 
+13304,Dining and Drinking > Restaurant > Mexican Restaurant > Botanero,Dining and Drinking , Restaurant 
+13305,Dining and Drinking > Restaurant > Mexican Restaurant > Burrito Restaurant,Dining and Drinking , Restaurant 
+13306,Dining and Drinking > Restaurant > Mexican Restaurant > Taco Restaurant,Dining and Drinking , Restaurant 
+13307,Dining and Drinking > Restaurant > Mexican Restaurant > Tex-Mex Restaurant,Dining and Drinking , Restaurant 
+13308,Dining and Drinking > Restaurant > Mexican Restaurant > Yucatecan Restaurant,Dining and Drinking , Restaurant 
+13309,Dining and Drinking > Restaurant > Middle Eastern Restaurant,Dining and Drinking , Restaurant 
+13310,Dining and Drinking > Restaurant > Modern European Restaurant,Dining and Drinking , Restaurant 
+13311,Dining and Drinking > Restaurant > Molecular Gastronomy Restaurant,Dining and Drinking , Restaurant 
+13312,Dining and Drinking > Restaurant > Asian Restaurant > Mongolian Restaurant,Dining and Drinking , Restaurant 
+13313,Dining and Drinking > Restaurant > Moroccan Restaurant,Dining and Drinking , Restaurant 
+13314,Dining and Drinking > Restaurant > American Restaurant > New American Restaurant,Dining and Drinking , Restaurant 
+13315,Dining and Drinking > Restaurant > Asian Restaurant > Noodle Restaurant,Dining and Drinking , Restaurant 
+13316,Dining and Drinking > Restaurant > Pakistani Restaurant,Dining and Drinking , Restaurant 
+13317,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Persian Restaurant,Dining and Drinking , Restaurant 
+13318,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Persian Restaurant > Ash and Haleem Place,Dining and Drinking , Restaurant 
+13319,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Persian Restaurant > Dizi Place,Dining and Drinking , Restaurant 
+13320,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Persian Restaurant > Gilaki Restaurant,Dining and Drinking , Restaurant 
+13321,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Persian Restaurant > Jegaraki,Dining and Drinking , Restaurant 
+13322,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Peruvian Restaurant,Dining and Drinking , Restaurant 
+13323,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Peruvian Restaurant > Peruvian Roast Chicken Joint,Dining and Drinking , Restaurant 
+13324,Dining and Drinking > Restaurant > Polish Restaurant,Dining and Drinking , Restaurant 
+13325,Dining and Drinking > Restaurant > Portuguese Restaurant,Dining and Drinking , Restaurant 
+13326,Dining and Drinking > Restaurant > Poutine Restaurant,Dining and Drinking , Restaurant 
+13327,Dining and Drinking > Restaurant > Caribbean Restaurant > Puerto Rican Restaurant,Dining and Drinking , Restaurant 
+13328,Dining and Drinking > Restaurant > Eastern European Restaurant > Romanian Restaurant,Dining and Drinking , Restaurant 
+13329,Dining and Drinking > Restaurant > Russian Restaurant,Dining and Drinking , Restaurant 
+13330,Dining and Drinking > Restaurant > Russian Restaurant > Blini House,Dining and Drinking , Restaurant 
+13331,Dining and Drinking > Restaurant > Russian Restaurant > Pelmeni House,Dining and Drinking , Restaurant 
+13332,Dining and Drinking > Restaurant > Salad Restaurant,Dining and Drinking , Restaurant 
+13333,Dining and Drinking > Restaurant > Latin American Restaurant > Salvadoran Restaurant,Dining and Drinking , Restaurant 
+13334,Dining and Drinking > Restaurant > Sandwich Spot,Dining and Drinking , Restaurant 
+13335,Dining and Drinking > Restaurant > Asian Restaurant > Satay Restaurant,Dining and Drinking , Restaurant 
+13336,Dining and Drinking > Restaurant > Scandinavian Restaurant,Dining and Drinking , Restaurant 
+13337,Dining and Drinking > Restaurant > Scottish Restaurant,Dining and Drinking , Restaurant 
+13338,Dining and Drinking > Restaurant > Seafood Restaurant,Dining and Drinking , Restaurant 
+13339,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Shawarma Restaurant,Dining and Drinking , Restaurant 
+13340,Dining and Drinking > Restaurant > Asian Restaurant > Singaporean Restaurant,Dining and Drinking , Restaurant 
+13341,Dining and Drinking > Restaurant > Slovak Restaurant,Dining and Drinking , Restaurant 
+13342,Dining and Drinking > Restaurant > Soup Spot,Dining and Drinking , Restaurant 
+13343,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant,Dining and Drinking , Restaurant 
+13344,Dining and Drinking > Restaurant > Southern Food Restaurant,Dining and Drinking , Restaurant 
+13345,Dining and Drinking > Restaurant > Spanish Restaurant,Dining and Drinking , Restaurant 
+13346,Dining and Drinking > Restaurant > Spanish Restaurant > Paella Restaurant,Dining and Drinking , Restaurant 
+13347,Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant,Dining and Drinking , Restaurant 
+13348,Dining and Drinking > Restaurant > Sri Lankan Restaurant,Dining and Drinking , Restaurant 
+13349,Dining and Drinking > Restaurant > Swiss Restaurant,Dining and Drinking , Restaurant 
+13350,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Syrian Restaurant,Dining and Drinking , Restaurant 
+13351,Dining and Drinking > Restaurant > Eastern European Restaurant > Tatar Restaurant,Dining and Drinking , Restaurant 
+13352,Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant,Dining and Drinking , Restaurant 
+13353,Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant > Som Tum Restaurant,Dining and Drinking , Restaurant 
+13354,Dining and Drinking > Restaurant > Theme Restaurant,Dining and Drinking , Restaurant 
+13355,Dining and Drinking > Restaurant > Asian Restaurant > Tibetan Restaurant,Dining and Drinking , Restaurant 
+13356,Dining and Drinking > Restaurant > Turkish Restaurant,Dining and Drinking , Restaurant 
+13357,Dining and Drinking > Restaurant > Turkish Restaurant > Borek Place,Dining and Drinking , Restaurant 
+13358,Dining and Drinking > Restaurant > Turkish Restaurant > Cigkofte Place,Dining and Drinking , Restaurant 
+13359,Dining and Drinking > Restaurant > Turkish Restaurant > Çöp Şiş Place,Dining and Drinking , Restaurant 
+13360,Dining and Drinking > Restaurant > Turkish Restaurant > Doner Restaurant,Dining and Drinking , Restaurant 
+13361,Dining and Drinking > Restaurant > Turkish Restaurant > Gozleme Place,Dining and Drinking , Restaurant 
+13362,Dining and Drinking > Restaurant > Turkish Restaurant > Kofte Place,Dining and Drinking , Restaurant 
+13363,Dining and Drinking > Restaurant > Turkish Restaurant > Kokoreç Restaurant,Dining and Drinking , Restaurant 
+13364,Dining and Drinking > Restaurant > Turkish Restaurant > Kumpir Restaurant,Dining and Drinking , Restaurant 
+13365,Dining and Drinking > Restaurant > Turkish Restaurant > Kumru Restaurant,Dining and Drinking , Restaurant 
+13366,Dining and Drinking > Restaurant > Turkish Restaurant > Manti Place,Dining and Drinking , Restaurant 
+13367,Dining and Drinking > Restaurant > Turkish Restaurant > Meyhane,Dining and Drinking , Restaurant 
+13368,Dining and Drinking > Restaurant > Turkish Restaurant > Pide Place,Dining and Drinking , Restaurant 
+13369,Dining and Drinking > Restaurant > Turkish Restaurant > Pilavcı,Dining and Drinking , Restaurant 
+13370,Dining and Drinking > Restaurant > Turkish Restaurant > Söğüş Place,Dining and Drinking , Restaurant 
+13371,Dining and Drinking > Restaurant > Turkish Restaurant > Tantuni Restaurant,Dining and Drinking , Restaurant 
+13372,Dining and Drinking > Restaurant > Turkish Restaurant > Turkish Coffeehouse,Dining and Drinking , Restaurant 
+13373,Dining and Drinking > Restaurant > Turkish Restaurant > Turkish Home Cooking Restaurant,Dining and Drinking , Restaurant 
+13374,Dining and Drinking > Restaurant > Ukrainian Restaurant,Dining and Drinking , Restaurant 
+13375,Dining and Drinking > Restaurant > Ukrainian Restaurant > Varenyky Restaurant,Dining and Drinking , Restaurant 
+13376,Dining and Drinking > Restaurant > Ukrainian Restaurant > West-Ukrainian Restaurant,Dining and Drinking , Restaurant 
+13377,Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant,Dining and Drinking , Restaurant 
+13378,Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Venezuelan Restaurant,Dining and Drinking , Restaurant 
+13379,Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant,Dining and Drinking , Restaurant 
+13380,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Yemeni Restaurant,Dining and Drinking , Restaurant 
+13381,Dining and Drinking > Smoothie Shop,Dining and Drinking , Smoothie Shop
+13382,Dining and Drinking > Snack Place,Dining and Drinking , Snack Place
+13383,Dining and Drinking > Restaurant > Steakhouse,Dining and Drinking , Restaurant 
+13384,Dining and Drinking > Restaurant > Middle Eastern Restaurant > Persian Restaurant > Tabbakhi,Dining and Drinking , Restaurant 
+13386,Dining and Drinking > Vineyard,Dining and Drinking , Vineyard
+13387,Dining and Drinking > Winery,Dining and Drinking , Winery
+13388,Dining and Drinking > Restaurant > Wings Joint,Dining and Drinking , Restaurant 
+13389,Dining and Drinking > Bar > Irish Pub,Dining and Drinking , Bar 
+13390,Dining and Drinking > Restaurant > Gluten-Free Restaurant,Dining and Drinking , Restaurant 
+13392,Dining and Drinking > Dessert Shop > Waffle Shop,Dining and Drinking , Dessert Shop 
+14000,Event,Event,
+14001,Event > Conference,Event , Conference
+14002,Event > Convention,Event , Convention
+14003,Event > Entertainment Event,Event , Entertainment Event
+14004,Event > Entertainment Event > Festival,Event , Entertainment Event 
+14005,Event > Entertainment Event > Music Festival,Event , Entertainment Event 
+14006,Event > Entertainment Event > Parade,Event , Entertainment Event 
+14007,Event > Entertainment Event > Sporting Event,Event , Entertainment Event 
+14008,Event > Line,Event , Line
+14009,Event > Marketplace,Event , Marketplace
+14010,Event > Marketplace > Christmas Market,Event , Marketplace 
+14011,Event > Marketplace > Stoop Sale,Event , Marketplace 
+14012,Event > Marketplace > Street Fair,Event , Marketplace 
+14013,Event > Marketplace > Street Food Gathering,Event , Marketplace 
+14014,Event > Marketplace > Trade Fair,Event , Marketplace 
+14015,Event > Other Event,Event , Other Event
+14016,Event > Entertainment Event > Festival > Beer Festival,Event , Entertainment Event 
+15000,Health and Medicine,Health and Medicine,
+15001,Health and Medicine > Acupuncture Clinic,Health and Medicine , Acupuncture Clinic
+15002,Health and Medicine > AIDS Resource,Health and Medicine , AIDS Resource
+15003,Health and Medicine > Alternative Medicine Clinic,Health and Medicine , Alternative Medicine Clinic
+15004,Health and Medicine > Assisted Living Service,Health and Medicine , Assisted Living Service
+15005,Health and Medicine > Blood Bank,Health and Medicine , Blood Bank
+15006,Health and Medicine > Chiropractor,Health and Medicine , Chiropractor
+15007,Health and Medicine > Dentist,Health and Medicine , Dentist
+15008,Health and Medicine > Emergency Service,Health and Medicine , Emergency Service
+15009,Health and Medicine > Emergency Service > Ambulance Service,Health and Medicine , Emergency Service 
+15010,Health and Medicine > Emergency Service > Emergency Room,Health and Medicine , Emergency Service 
+15011,Health and Medicine > Healthcare Clinic,Health and Medicine , Healthcare Clinic
+15012,Health and Medicine > Home Health Care Service,Health and Medicine , Home Health Care Service
+15013,Health and Medicine > Hospice,Health and Medicine , Hospice
+15014,Health and Medicine > Hospital,Health and Medicine , Hospital
+15015,Health and Medicine > Maternity Clinic,Health and Medicine , Maternity Clinic
+15016,Health and Medicine > Medical Center,Health and Medicine , Medical Center
+15017,Health and Medicine > Medical Lab,Health and Medicine , Medical Lab
+15018,Health and Medicine > Mental Health Service,Health and Medicine , Mental Health Service
+15019,Health and Medicine > Mental Health Service > Mental Health Clinic,Health and Medicine , Mental Health Service 
+15020,Health and Medicine > Mental Health Service > Psychologist,Health and Medicine , Mental Health Service 
+15021,Health and Medicine > Nurse,Health and Medicine , Nurse
+15022,Health and Medicine > Nursing Home,Health and Medicine , Nursing Home
+15023,Health and Medicine > Nutritionist,Health and Medicine , Nutritionist
+15024,Health and Medicine > Optometrist,Health and Medicine , Optometrist
+15025,Health and Medicine > Other Healthcare Professional,Health and Medicine , Other Healthcare Professional
+15026,Health and Medicine > Physical Therapy Clinic,Health and Medicine , Physical Therapy Clinic
+15027,Health and Medicine > Physician,Health and Medicine , Physician
+15028,Health and Medicine > Physician > Anesthesiologist,Health and Medicine , Physician 
+15029,Health and Medicine > Physician > Cardiologist,Health and Medicine , Physician 
+15030,Health and Medicine > Physician > Dermatologist,Health and Medicine , Physician 
+15031,Health and Medicine > Physician > Doctor's Office,Health and Medicine , Physician 
+15032,"Health and Medicine > Physician > Ear, Nose and Throat Doctor",Health and Medicine , Physician 
+15033,Health and Medicine > Physician > Family Medicine Doctor,Health and Medicine , Physician 
+15034,Health and Medicine > Physician > Gastroenterologist,Health and Medicine , Physician 
+15035,Health and Medicine > Physician > General Surgeon,Health and Medicine , Physician 
+15036,Health and Medicine > Physician > Geriatric Doctor,Health and Medicine , Physician 
+15037,Health and Medicine > Physician > Internal Medicine Doctor,Health and Medicine , Physician 
+15038,Health and Medicine > Physician > Neurologist,Health and Medicine , Physician 
+15039,Health and Medicine > Physician > Obstetrician Gynecologist (Ob-gyn),Health and Medicine , Physician 
+15040,Health and Medicine > Physician > Oncologist,Health and Medicine , Physician 
+15041,Health and Medicine > Physician > Ophthalmologist,Health and Medicine , Physician 
+15042,Health and Medicine > Physician > Oral Surgeon,Health and Medicine , Physician 
+15043,Health and Medicine > Physician > Orthopedic Surgeon,Health and Medicine , Physician 
+15044,Health and Medicine > Physician > Pathologist,Health and Medicine , Physician 
+15045,Health and Medicine > Physician > Pediatrician,Health and Medicine , Physician 
+15046,Health and Medicine > Physician > Plastic Surgeon,Health and Medicine , Physician 
+15047,Health and Medicine > Physician > Psychiatrist,Health and Medicine , Physician 
+15048,Health and Medicine > Physician > Radiologist,Health and Medicine , Physician 
+15049,Health and Medicine > Physician > Respiratory Doctor,Health and Medicine , Physician 
+15050,Health and Medicine > Physician > Urologist,Health and Medicine , Physician 
+15051,Health and Medicine > Podiatrist,Health and Medicine , Podiatrist
+15052,Health and Medicine > Sports Medicine Clinic,Health and Medicine , Sports Medicine Clinic
+15053,Health and Medicine > Urgent Care Center,Health and Medicine , Urgent Care Center
+15054,Health and Medicine > Veterinarian,Health and Medicine , Veterinarian
+15055,Health and Medicine > Weight Loss Center,Health and Medicine , Weight Loss Center
+15056,Health and Medicine > Women's Health Clinic,Health and Medicine , Women's Health Clinic
+15058,Health and Medicine > Hospital > Children's Hospital,Health and Medicine , Hospital 
+15059,Health and Medicine > Hospital > Hospital Unit,Health and Medicine , Hospital 
+16000,Landmarks and Outdoors,Landmarks and Outdoors,
+16001,Landmarks and Outdoors > Bathing Area,Landmarks and Outdoors , Bathing Area
+16002,Landmarks and Outdoors > Bay,Landmarks and Outdoors , Bay
+16003,Landmarks and Outdoors > Beach,Landmarks and Outdoors , Beach
+16004,Landmarks and Outdoors > Bike Trail,Landmarks and Outdoors , Bike Trail
+16005,Landmarks and Outdoors > Botanical Garden,Landmarks and Outdoors , Botanical Garden
+16006,Landmarks and Outdoors > Bridge,Landmarks and Outdoors , Bridge
+16007,Landmarks and Outdoors > Structure,Landmarks and Outdoors , Structure
+16008,Landmarks and Outdoors > Campground,Landmarks and Outdoors , Campground
+16009,Landmarks and Outdoors > Canal,Landmarks and Outdoors , Canal
+16010,Landmarks and Outdoors > Canal Lock,Landmarks and Outdoors , Canal Lock
+16011,Landmarks and Outdoors > Castle,Landmarks and Outdoors , Castle
+16012,Landmarks and Outdoors > Cave,Landmarks and Outdoors , Cave
+16013,Landmarks and Outdoors > Dive Spot,Landmarks and Outdoors , Dive Spot
+16014,Landmarks and Outdoors > Farm,Landmarks and Outdoors , Farm
+16015,Landmarks and Outdoors > Forest,Landmarks and Outdoors , Forest
+16016,Landmarks and Outdoors > Fountain,Landmarks and Outdoors , Fountain
+16017,Landmarks and Outdoors > Garden,Landmarks and Outdoors , Garden
+16018,Landmarks and Outdoors > Harbor or Marina,Landmarks and Outdoors , Harbor or Marina
+16019,Landmarks and Outdoors > Hiking Trail,Landmarks and Outdoors , Hiking Trail
+16020,Landmarks and Outdoors > Historic and Protected Site,Landmarks and Outdoors , Historic and Protected Site
+16021,Landmarks and Outdoors > Hot Spring,Landmarks and Outdoors , Hot Spring
+16022,Landmarks and Outdoors > Island,Landmarks and Outdoors , Island
+16023,Landmarks and Outdoors > Lake,Landmarks and Outdoors , Lake
+16024,Landmarks and Outdoors > Lighthouse,Landmarks and Outdoors , Lighthouse
+16025,Landmarks and Outdoors > Memorial Site,Landmarks and Outdoors , Memorial Site
+16026,Landmarks and Outdoors > Monument,Landmarks and Outdoors , Monument
+16027,Landmarks and Outdoors > Mountain,Landmarks and Outdoors , Mountain
+16028,Landmarks and Outdoors > Nature Preserve,Landmarks and Outdoors , Nature Preserve
+16029,Landmarks and Outdoors > Nudist Beach,Landmarks and Outdoors , Nudist Beach
+16030,Landmarks and Outdoors > Other Great Outdoors,Landmarks and Outdoors , Other Great Outdoors
+16031,Landmarks and Outdoors > Palace,Landmarks and Outdoors , Palace
+16032,Landmarks and Outdoors > Park,Landmarks and Outdoors , Park
+16033,Landmarks and Outdoors > Park > Dog Park,Landmarks and Outdoors , Park 
+16034,Landmarks and Outdoors > Park > National Park,Landmarks and Outdoors , Park 
+16035,Landmarks and Outdoors > Park > Natural Park,Landmarks and Outdoors , Park 
+16036,Landmarks and Outdoors > Park > Picnic Area,Landmarks and Outdoors , Park 
+16037,Landmarks and Outdoors > Park > Playground,Landmarks and Outdoors , Park 
+16038,Landmarks and Outdoors > Park > State or Provincial Park,Landmarks and Outdoors , Park 
+16039,Landmarks and Outdoors > Park > Urban Park,Landmarks and Outdoors , Park 
+16040,Landmarks and Outdoors > Pedestrian Plaza,Landmarks and Outdoors , Pedestrian Plaza
+16041,Landmarks and Outdoors > Plaza,Landmarks and Outdoors , Plaza
+16042,Landmarks and Outdoors > Reservoir,Landmarks and Outdoors , Reservoir
+16043,Landmarks and Outdoors > River,Landmarks and Outdoors , River
+16044,Landmarks and Outdoors > Rock Climbing Spot,Landmarks and Outdoors , Rock Climbing Spot
+16045,Landmarks and Outdoors > Roof Deck,Landmarks and Outdoors , Roof Deck
+16046,Landmarks and Outdoors > Scenic Lookout,Landmarks and Outdoors , Scenic Lookout
+16047,Landmarks and Outdoors > Sculpture Garden,Landmarks and Outdoors , Sculpture Garden
+16048,Landmarks and Outdoors > Stable,Landmarks and Outdoors , Stable
+16049,Landmarks and Outdoors > Surf Spot,Landmarks and Outdoors , Surf Spot
+16050,Landmarks and Outdoors > Tunnel,Landmarks and Outdoors , Tunnel
+16051,Landmarks and Outdoors > Volcano,Landmarks and Outdoors , Volcano
+16052,Landmarks and Outdoors > Waterfall,Landmarks and Outdoors , Waterfall
+16053,Landmarks and Outdoors > Waterfront,Landmarks and Outdoors , Waterfront
+16054,Landmarks and Outdoors > Windmill,Landmarks and Outdoors , Windmill
+16055,Landmarks and Outdoors > Boat Launch,Landmarks and Outdoors , Boat Launch
+16056,Landmarks and Outdoors > Dam,Landmarks and Outdoors , Dam
+16057,Landmarks and Outdoors > Field,Landmarks and Outdoors , Field
+16058,Landmarks and Outdoors > Hill,Landmarks and Outdoors , Hill
+16059,Landmarks and Outdoors > Mountain Hut,Landmarks and Outdoors , Mountain Hut
+16060,Landmarks and Outdoors > Picnic Shelter,Landmarks and Outdoors , Picnic Shelter
+16061,Landmarks and Outdoors > States and Municipalities,Landmarks and Outdoors , States and Municipalities
+16062,Landmarks and Outdoors > States and Municipalities > City,Landmarks and Outdoors , States and Municipalities 
+16063,Landmarks and Outdoors > States and Municipalities > Country,Landmarks and Outdoors , States and Municipalities 
+16064,Landmarks and Outdoors > States and Municipalities > County,Landmarks and Outdoors , States and Municipalities 
+16065,Landmarks and Outdoors > States and Municipalities > Neighborhood,Landmarks and Outdoors , States and Municipalities 
+16066,Landmarks and Outdoors > States and Municipalities > State,Landmarks and Outdoors , States and Municipalities 
+16067,Landmarks and Outdoors > States and Municipalities > Town,Landmarks and Outdoors , States and Municipalities 
+16068,Landmarks and Outdoors > States and Municipalities > Village,Landmarks and Outdoors , States and Municipalities 
+16069,Landmarks and Outdoors > Tree,Landmarks and Outdoors , Tree
+16070,Landmarks and Outdoors > Well,Landmarks and Outdoors , Well
+17000,Retail,Retail,
+17001,Retail > Adult Store,Retail , Adult Store
+17002,Retail > Antique Store,Retail , Antique Store
+17003,Retail > Arts and Crafts Store,Retail , Arts and Crafts Store
+17004,Retail > Auction House,Retail , Auction House
+17005,Retail > Automotive Retail,Retail , Automotive Retail
+17006,Retail > Automotive Retail > Car Dealership,Retail , Automotive Retail 
+17007,Retail > Automotive Retail > Car Dealership > Classic and Antique Car Dealership,Retail , Automotive Retail 
+17008,Retail > Automotive Retail > Car Dealership > New Car Dealership,Retail , Automotive Retail 
+17009,Retail > Automotive Retail > Car Dealership > RV and Motorhome Dealership,Retail , Automotive Retail 
+17010,Retail > Automotive Retail > Car Dealership > Used Car Dealership,Retail , Automotive Retail 
+17011,Retail > Automotive Retail > Car Parts and Accessories,Retail , Automotive Retail 
+17012,Retail > Automotive Retail > Motorcycle Dealership,Retail , Automotive Retail 
+17013,Retail > Automotive Retail > Motorsports Store,Retail , Automotive Retail 
+17014,Retail > Baby Store,Retail , Baby Store
+17015,Retail > Betting Shop,Retail , Betting Shop
+17016,Retail > Big Box Store,Retail , Big Box Store
+17017,Retail > Board Store,Retail , Board Store
+17018,Retail > Bookstore,Retail , Bookstore
+17019,Retail > Bookstore > Used Bookstore,Retail , Bookstore 
+17020,Retail > Boutique,Retail , Boutique
+17021,Retail > Cannabis Store,Retail , Cannabis Store
+17022,Retail > Comic Book Store,Retail , Comic Book Store
+17023,Retail > Computers and Electronics Retail,Retail , Computers and Electronics Retail
+17024,Retail > Computers and Electronics Retail > Camera Store,Retail , Computers and Electronics Retail 
+17025,Retail > Computers and Electronics Retail > Electronics Store,Retail , Computers and Electronics Retail 
+17026,Retail > Computers and Electronics Retail > Mobile Phone Store,Retail , Computers and Electronics Retail 
+17027,Retail > Computers and Electronics Retail > Video Games Store,Retail , Computers and Electronics Retail 
+17028,Retail > Construction Supplies Store,Retail , Construction Supplies Store
+17029,Retail > Convenience Store,Retail , Convenience Store
+17030,Retail > Cosmetics Store,Retail , Cosmetics Store
+17031,Retail > Costume Store,Retail , Costume Store
+17032,Retail > Dance Store,Retail , Dance Store
+17033,Retail > Department Store,Retail , Department Store
+17034,Retail > Discount Store,Retail , Discount Store
+17035,Retail > Drugstore,Retail , Drugstore
+17036,Retail > Duty-free Store,Retail , Duty-free Store
+17037,Retail > Eyecare Store,Retail , Eyecare Store
+17038,Retail > Textiles Store,Retail , Textiles Store
+17039,Retail > Fashion Retail,Retail , Fashion Retail
+17040,Retail > Fashion Retail > Batik Store,Retail , Fashion Retail 
+17041,Retail > Fashion Retail > Bridal Store,Retail , Fashion Retail 
+17042,Retail > Fashion Retail > Children's Clothing Store,Retail , Fashion Retail 
+17043,Retail > Fashion Retail > Clothing Store,Retail , Fashion Retail 
+17044,Retail > Fashion Retail > Fashion Accessories Store,Retail , Fashion Retail 
+17045,Retail > Fashion Retail > Jewelry Store,Retail , Fashion Retail 
+17046,Retail > Fashion Retail > Lingerie Store,Retail , Fashion Retail 
+17047,Retail > Fashion Retail > Men's Store,Retail , Fashion Retail 
+17048,Retail > Fashion Retail > Shoe Store,Retail , Fashion Retail 
+17049,Retail > Fashion Retail > Sunglasses Store,Retail , Fashion Retail 
+17050,Retail > Fashion Retail > Swimwear Store,Retail , Fashion Retail 
+17051,Retail > Fashion Retail > Watch Store,Retail , Fashion Retail 
+17052,Retail > Fashion Retail > Women's Store,Retail , Fashion Retail 
+17053,Retail > Fireworks Store,Retail , Fireworks Store
+17054,Retail > Flea Market,Retail , Flea Market
+17055,Retail > Floating Market,Retail , Floating Market
+17056,Retail > Flower Store,Retail , Flower Store
+17057,Retail > Food and Beverage Retail,Retail , Food and Beverage Retail
+17058,Retail > Food and Beverage Retail > Beer Store,Retail , Food and Beverage Retail 
+17059,Retail > Food and Beverage Retail > Butcher,Retail , Food and Beverage Retail 
+17060,Retail > Food and Beverage Retail > Candy Store,Retail , Food and Beverage Retail 
+17061,Retail > Food and Beverage Retail > Cheese Store,Retail , Food and Beverage Retail 
+17062,Retail > Food and Beverage Retail > Chocolate Store,Retail , Food and Beverage Retail 
+17063,Retail > Food and Beverage Retail > Coffee Roaster,Retail , Food and Beverage Retail 
+17064,Retail > Food and Beverage Retail > Dairy Store,Retail , Food and Beverage Retail 
+17065,Retail > Food and Beverage Retail > Farmers Market,Retail , Food and Beverage Retail 
+17066,Retail > Food and Beverage Retail > Fish Market,Retail , Food and Beverage Retail 
+17067,Retail > Food and Beverage Retail > Fruit and Vegetable Store,Retail , Food and Beverage Retail 
+17068,Retail > Food and Beverage Retail > Gourmet Store,Retail , Food and Beverage Retail 
+17069,Retail > Food and Beverage Retail > Grocery Store,Retail , Food and Beverage Retail 
+17070,Retail > Food and Beverage Retail > Grocery Store > Organic Grocery,Retail , Food and Beverage Retail 
+17071,Retail > Food and Beverage Retail > Health Food Store,Retail , Food and Beverage Retail 
+17072,Retail > Food and Beverage Retail > Herbs and Spices Store,Retail , Food and Beverage Retail 
+17073,Retail > Food and Beverage Retail > Imported Food Store,Retail , Food and Beverage Retail 
+17074,Retail > Food and Beverage Retail > Kosher Store,Retail , Food and Beverage Retail 
+17075,Retail > Food and Beverage Retail > Kuruyemişçi Shop,Retail , Food and Beverage Retail 
+17076,Retail > Food and Beverage Retail > Liquor Store,Retail , Food and Beverage Retail 
+17077,Retail > Food and Beverage Retail > Meat and Seafood Store,Retail , Food and Beverage Retail 
+17078,Retail > Food and Beverage Retail > Sausage Store,Retail , Food and Beverage Retail 
+17079,Retail > Food and Beverage Retail > Turşucu Shop,Retail , Food and Beverage Retail 
+17080,Retail > Food and Beverage Retail > Wine Store,Retail , Food and Beverage Retail 
+17081,Retail > Framing Store,Retail , Framing Store
+17082,Retail > Furniture and Home Store,Retail , Furniture and Home Store
+17083,Retail > Furniture and Home Store > Carpet Store,Retail , Furniture and Home Store 
+17084,Retail > Furniture and Home Store > Home Appliance Store,Retail , Furniture and Home Store 
+17085,Retail > Furniture and Home Store > Housewares Store,Retail , Furniture and Home Store 
+17086,Retail > Furniture and Home Store > Kitchen Supply Store,Retail , Furniture and Home Store 
+17087,Retail > Furniture and Home Store > Lighting Store,Retail , Furniture and Home Store 
+17088,Retail > Furniture and Home Store > Mattress Store,Retail , Furniture and Home Store 
+17089,Retail > Gift Store,Retail , Gift Store
+17090,Retail > Hardware Store,Retail , Hardware Store
+17091,Retail > Hobby Store,Retail , Hobby Store
+17092,Retail > Knitting Store,Retail , Knitting Store
+17093,Retail > Leather Goods Store,Retail , Leather Goods Store
+17094,Retail > Luggage Store,Retail , Luggage Store
+17095,Retail > Medical Supply Store,Retail , Medical Supply Store
+17096,Retail > Miscellaneous Store,Retail , Miscellaneous Store
+17097,Retail > Mobility Store,Retail , Mobility Store
+17098,Retail > Music Store,Retail , Music Store
+17099,Retail > Newsagent,Retail , Newsagent
+17100,Retail > Newsstand,Retail , Newsstand
+17101,Retail > Garden Center,Retail , Garden Center
+17102,Retail > Office Supply Store,Retail , Office Supply Store
+17103,Retail > Outdoor Supply Store,Retail , Outdoor Supply Store
+17104,Retail > Outlet Mall,Retail , Outlet Mall
+17105,Retail > Outlet Store,Retail , Outlet Store
+17106,Retail > Packaging Supply Store,Retail , Packaging Supply Store
+17107,Retail > Party Supply Store,Retail , Party Supply Store
+17108,Retail > Pawn Shop,Retail , Pawn Shop
+17109,Retail > Perfume Store,Retail , Perfume Store
+17110,Retail > Pet Supplies Store,Retail , Pet Supplies Store
+17111,Retail > Pop-Up Store,Retail , Pop-Up Store
+17112,Retail > Print Store,Retail , Print Store
+17113,Retail > Record Store,Retail , Record Store
+17114,Retail > Shopping Mall,Retail , Shopping Mall
+17115,Retail > Shopping Plaza,Retail , Shopping Plaza
+17116,Retail > Souvenir Store,Retail , Souvenir Store
+17117,Retail > Sporting Goods Retail,Retail , Sporting Goods Retail
+17118,Retail > Sporting Goods Retail > Baseball Store,Retail , Sporting Goods Retail 
+17119,Retail > Sporting Goods Retail > Bicycle Store,Retail , Sporting Goods Retail 
+17120,Retail > Sporting Goods Retail > Dive Store,Retail , Sporting Goods Retail 
+17121,Retail > Sporting Goods Retail > Fishing Store,Retail , Sporting Goods Retail 
+17122,Retail > Sporting Goods Retail > Golf Store,Retail , Sporting Goods Retail 
+17123,Retail > Sporting Goods Retail > Gun Store,Retail , Sporting Goods Retail 
+17124,Retail > Sporting Goods Retail > Hunting Supply Store,Retail , Sporting Goods Retail 
+17125,Retail > Sporting Goods Retail > Running Store,Retail , Sporting Goods Retail 
+17126,Retail > Sporting Goods Retail > Skate Store,Retail , Sporting Goods Retail 
+17127,Retail > Sporting Goods Retail > Ski Store,Retail , Sporting Goods Retail 
+17128,Retail > Sporting Goods Retail > Soccer Store,Retail , Sporting Goods Retail 
+17129,Retail > Sporting Goods Retail > Surf Store,Retail , Sporting Goods Retail 
+17130,Retail > Sporting Goods Retail > Tennis Store,Retail , Sporting Goods Retail 
+17131,Retail > Stationery Store,Retail , Stationery Store
+17132,Retail > Supplement Store,Retail , Supplement Store
+17133,Retail > Swimming Pool Supply Store,Retail , Swimming Pool Supply Store
+17134,Retail > Tobacco Store,Retail , Tobacco Store
+17135,Retail > Toy Store,Retail , Toy Store
+17136,Retail > Vape Store,Retail , Vape Store
+17137,Retail > Video Store,Retail , Video Store
+17138,Retail > Vintage and Thrift Store,Retail , Vintage and Thrift Store
+17139,Retail > Warehouse or Wholesale Store,Retail , Warehouse or Wholesale Store
+17140,Retail > Automotive Retail > Moped Dealership,Retail , Automotive Retail 
+17141,Retail > Automotive Retail > Motor Scooter Dealership,Retail , Automotive Retail 
+17142,Retail > Food and Beverage Retail > Supermarket,Retail , Food and Beverage Retail 
+17143,Retail > Marijuana Dispensary,Retail , Marijuana Dispensary
+17144,Retail > Market,Retail , Market
+17145,Retail > Pharmacy,Retail , Pharmacy
+17146,Retail > Smoke Shop,Retail , Smoke Shop
+18000,Sports and Recreation,Sports and Recreation,
+18001,Sports and Recreation > Athletic Field,Sports and Recreation , Athletic Field
+18002,Sports and Recreation > Baseball,Sports and Recreation , Baseball
+18003,Sports and Recreation > Baseball > Baseball Club,Sports and Recreation , Baseball 
+18004,Sports and Recreation > Baseball > Baseball Field,Sports and Recreation , Baseball 
+18005,Sports and Recreation > Baseball > Batting Cages,Sports and Recreation , Baseball 
+18006,Sports and Recreation > Basketball,Sports and Recreation , Basketball
+18007,Sports and Recreation > Basketball > Basketball Club,Sports and Recreation , Basketball 
+18008,Sports and Recreation > Basketball > Basketball Court,Sports and Recreation , Basketball 
+18009,Sports and Recreation > Bowling Green,Sports and Recreation , Bowling Green
+18010,Sports and Recreation > Cricket Ground,Sports and Recreation , Cricket Ground
+18011,Sports and Recreation > Curling Ice,Sports and Recreation , Curling Ice
+18012,Sports and Recreation > Equestrian Facility,Sports and Recreation , Equestrian Facility
+18013,Sports and Recreation > Football,Sports and Recreation , Football
+18014,Sports and Recreation > Football > Football Club,Sports and Recreation , Football 
+18015,Sports and Recreation > Football > Football Field,Sports and Recreation , Football 
+18016,Sports and Recreation > Golf,Sports and Recreation , Golf
+18017,Sports and Recreation > Golf > Golf Club,Sports and Recreation , Golf 
+18018,Sports and Recreation > Golf > Golf Course,Sports and Recreation , Golf 
+18019,Sports and Recreation > Golf > Golf Driving Range,Sports and Recreation , Golf 
+18020,Sports and Recreation > Gun Range,Sports and Recreation , Gun Range
+18021,Sports and Recreation > Gym and Studio,Sports and Recreation , Gym and Studio
+18022,Sports and Recreation > Gym and Studio > Boxing Gym,Sports and Recreation , Gym and Studio 
+18023,Sports and Recreation > Gym and Studio > Climbing Gym,Sports and Recreation , Gym and Studio 
+18024,Sports and Recreation > Gym and Studio > Cycle Studio,Sports and Recreation , Gym and Studio 
+18025,Sports and Recreation > Gym and Studio > Dance Studio,Sports and Recreation , Gym and Studio 
+18026,Sports and Recreation > Gym and Studio > Outdoor Gym,Sports and Recreation , Gym and Studio 
+18027,Sports and Recreation > Gym and Studio > Pilates Studio,Sports and Recreation , Gym and Studio 
+18028,Sports and Recreation > Gym and Studio > Yoga Studio,Sports and Recreation , Gym and Studio 
+18029,Sports and Recreation > Gymnastics,Sports and Recreation , Gymnastics
+18030,Sports and Recreation > Gymnastics > Gymnastics Center,Sports and Recreation , Gymnastics 
+18031,Sports and Recreation > Hockey,Sports and Recreation , Hockey
+18032,Sports and Recreation > Hockey > Hockey Club,Sports and Recreation , Hockey 
+18033,Sports and Recreation > Hockey > Hockey Field,Sports and Recreation , Hockey 
+18034,Sports and Recreation > Hockey > Hockey Rink,Sports and Recreation , Hockey 
+18035,Sports and Recreation > Indoor Play Area,Sports and Recreation , Indoor Play Area
+18036,Sports and Recreation > Martial Arts Dojo,Sports and Recreation , Martial Arts Dojo
+18037,Sports and Recreation > Paintball Field,Sports and Recreation , Paintball Field
+18038,Sports and Recreation > Personal Trainer,Sports and Recreation , Personal Trainer
+18039,Sports and Recreation > Race Track,Sports and Recreation , Race Track
+18040,Sports and Recreation > Racquet Sports,Sports and Recreation , Racquet Sports
+18041,Sports and Recreation > Racquet Sports > Badminton Court,Sports and Recreation , Racquet Sports 
+18042,Sports and Recreation > Racquet Sports > Racquet Sport Club,Sports and Recreation , Racquet Sports 
+18043,Sports and Recreation > Racquet Sports > Racquetball Club,Sports and Recreation , Racquet Sports 
+18044,Sports and Recreation > Racquet Sports > Squash Court,Sports and Recreation , Racquet Sports 
+18045,Sports and Recreation > Racquet Sports > Tennis,Sports and Recreation , Racquet Sports 
+18046,Sports and Recreation > Racquet Sports > Tennis > Tennis Club,Sports and Recreation , Racquet Sports 
+18047,Sports and Recreation > Racquet Sports > Tennis > Tennis Court,Sports and Recreation , Racquet Sports 
+18048,Sports and Recreation > Recreation Center,Sports and Recreation , Recreation Center
+18049,Sports and Recreation > Rugby,Sports and Recreation , Rugby
+18050,Sports and Recreation > Rugby > Rugby Pitch,Sports and Recreation , Rugby 
+18051,Sports and Recreation > Running and Track,Sports and Recreation , Running and Track
+18052,Sports and Recreation > Running and Track > Running Club,Sports and Recreation , Running and Track 
+18053,Sports and Recreation > Running and Track > Track,Sports and Recreation , Running and Track 
+18054,Sports and Recreation > Skating,Sports and Recreation , Skating
+18055,Sports and Recreation > Skating > Skate Park,Sports and Recreation , Skating 
+18056,Sports and Recreation > Skating > Skating Rink,Sports and Recreation , Skating 
+18057,Sports and Recreation > Skydiving Center,Sports and Recreation , Skydiving Center
+18058,Sports and Recreation > Snow Sports,Sports and Recreation , Snow Sports
+18059,Sports and Recreation > Snow Sports > Ski Chalet,Sports and Recreation , Snow Sports 
+18060,Sports and Recreation > Snow Sports > Ski Lodge,Sports and Recreation , Snow Sports 
+18061,Sports and Recreation > Snow Sports > Ski Resort and Area,Sports and Recreation , Snow Sports 
+18062,Sports and Recreation > Soccer,Sports and Recreation , Soccer
+18063,Sports and Recreation > Soccer > Soccer Club,Sports and Recreation , Soccer 
+18064,Sports and Recreation > Soccer > Soccer Field,Sports and Recreation , Soccer 
+18065,Sports and Recreation > Sports Club,Sports and Recreation , Sports Club
+18066,Sports and Recreation > Volleyball Court,Sports and Recreation , Volleyball Court
+18067,Sports and Recreation > Water Sports,Sports and Recreation , Water Sports
+18068,Sports and Recreation > Water Sports > Canoe and Kayak Rental,Sports and Recreation , Water Sports 
+18069,Sports and Recreation > Water Sports > Rafting Outfitter,Sports and Recreation , Water Sports 
+18070,Sports and Recreation > Water Sports > Sailing Club,Sports and Recreation , Water Sports 
+18071,Sports and Recreation > Water Sports > Scuba Diving Instructor,Sports and Recreation , Water Sports 
+18072,Sports and Recreation > Water Sports > Surfing,Sports and Recreation , Water Sports 
+18073,Sports and Recreation > Water Sports > Swimming,Sports and Recreation , Water Sports 
+18074,Sports and Recreation > Water Sports > Swimming > Swimming Club,Sports and Recreation , Water Sports 
+18075,Sports and Recreation > Water Sports > Swimming > Swimming Pool,Sports and Recreation , Water Sports 
+18076,Sports and Recreation > Water Sports > Swimming > Swim School,Sports and Recreation , Water Sports 
+18077,Sports and Recreation > Gym and Studio > Gym,Sports and Recreation , Gym and Studio 
+18078,Sports and Recreation > Gym and Studio > Gym Pool,Sports and Recreation , Gym and Studio 
+18079,Sports and Recreation > Hunting Area,Sports and Recreation , Hunting Area
+18080,Sports and Recreation > Race Track > Racecourse,Sports and Recreation , Race Track 
+18081,Sports and Recreation > Sauna,Sports and Recreation , Sauna
+18082,Sports and Recreation > Skydiving Center > Skydiving Drop Zone,Sports and Recreation , Skydiving Center 
+18083,Sports and Recreation > Snow Sports > Ski Resort and Area > Ski Chairlift,Sports and Recreation , Snow Sports 
+18084,Sports and Recreation > Snow Sports > Ski Resort and Area > Ski Trail,Sports and Recreation , Snow Sports 
+18085,Sports and Recreation > Water Sports > Rafting Spot,Sports and Recreation , Water Sports 
+18086,Sports and Recreation > Fishing Area,Sports and Recreation , Fishing Area
+19000,Travel and Transportation,Travel and Transportation,
+19001,Travel and Transportation > Baggage Locker,Travel and Transportation , Baggage Locker
+19002,Travel and Transportation > Bike Rental,Travel and Transportation , Bike Rental
+19003,Travel and Transportation > Boat Rental,Travel and Transportation , Boat Rental
+19004,Travel and Transportation > Border Crossing,Travel and Transportation , Border Crossing
+19005,Travel and Transportation > Cruise,Travel and Transportation , Cruise
+19006,Travel and Transportation > Electric Vehicle Charging Station,Travel and Transportation , Electric Vehicle Charging Station
+19007,Travel and Transportation > Fuel Station,Travel and Transportation , Fuel Station
+19008,Travel and Transportation > Hot Air Balloon Tour Agency,Travel and Transportation , Hot Air Balloon Tour Agency
+19009,Travel and Transportation > Lodging,Travel and Transportation , Lodging
+19010,Travel and Transportation > Lodging > Bed and Breakfast,Travel and Transportation , Lodging 
+19011,Travel and Transportation > Lodging > Boarding House,Travel and Transportation , Lodging 
+19012,Travel and Transportation > Lodging > Cabin,Travel and Transportation , Lodging 
+19013,Travel and Transportation > Lodging > Hostel,Travel and Transportation , Lodging 
+19014,Travel and Transportation > Lodging > Hotel,Travel and Transportation , Lodging 
+19015,Travel and Transportation > Lodging > Inn,Travel and Transportation , Lodging 
+19016,Travel and Transportation > Lodging > Lodge,Travel and Transportation , Lodging 
+19017,Travel and Transportation > Lodging > Motel,Travel and Transportation , Lodging 
+19018,Travel and Transportation > Lodging > Resort,Travel and Transportation , Lodging 
+19019,Travel and Transportation > Lodging > Vacation Rental,Travel and Transportation , Lodging 
+19020,Travel and Transportation > Parking,Travel and Transportation , Parking
+19021,Travel and Transportation > Pier,Travel and Transportation , Pier
+19022,Travel and Transportation > Platform,Travel and Transportation , Platform
+19023,Travel and Transportation > Port,Travel and Transportation , Port
+19024,Travel and Transportation > Rest Area,Travel and Transportation , Rest Area
+19025,Travel and Transportation > RV Park,Travel and Transportation , RV Park
+19026,Travel and Transportation > Toll Booth,Travel and Transportation , Toll Booth
+19027,Travel and Transportation > Toll Plaza,Travel and Transportation , Toll Plaza
+19028,Travel and Transportation > Tourist Information and Service,Travel and Transportation , Tourist Information and Service
+19029,Travel and Transportation > Tourist Information and Service > Tour Provider,Travel and Transportation , Tourist Information and Service 
+19030,Travel and Transportation > Transport Hub,Travel and Transportation , Transport Hub
+19031,Travel and Transportation > Transport Hub > Airport,Travel and Transportation , Transport Hub 
+19032,Travel and Transportation > Transport Hub > Airport > Airfield,Travel and Transportation , Transport Hub 
+19033,Travel and Transportation > Transport Hub > Airport > Airport Food Court,Travel and Transportation , Transport Hub 
+19034,Travel and Transportation > Transport Hub > Airport > Airport Gate,Travel and Transportation , Transport Hub 
+19035,Travel and Transportation > Transport Hub > Airport > Airport Lounge,Travel and Transportation , Transport Hub 
+19036,Travel and Transportation > Transport Hub > Airport > Airport Service,Travel and Transportation , Transport Hub 
+19037,Travel and Transportation > Transport Hub > Airport > Airport Terminal,Travel and Transportation , Transport Hub 
+19038,Travel and Transportation > Transport Hub > Airport > Airport Tram Station,Travel and Transportation , Transport Hub 
+19039,Travel and Transportation > Transport Hub > Airport > Baggage Claim,Travel and Transportation , Transport Hub 
+19040,Travel and Transportation > Transport Hub > Airport > International Airport,Travel and Transportation , Transport Hub 
+19041,Travel and Transportation > Transport Hub > Airport > Private Airport,Travel and Transportation , Transport Hub 
+19042,Travel and Transportation > Transport Hub > Bus Station,Travel and Transportation , Transport Hub 
+19043,Travel and Transportation > Transport Hub > Bus Stop,Travel and Transportation , Transport Hub 
+19044,Travel and Transportation > Transport Hub > Heliport,Travel and Transportation , Transport Hub 
+19045,Travel and Transportation > Transport Hub > Marine Terminal,Travel and Transportation , Transport Hub 
+19046,Travel and Transportation > Transport Hub > Metro Station,Travel and Transportation , Transport Hub 
+19047,Travel and Transportation > Transport Hub > Rail Station,Travel and Transportation , Transport Hub 
+19048,Travel and Transportation > Transport Hub > Rental Car Location,Travel and Transportation , Transport Hub 
+19049,Travel and Transportation > Transport Hub > Taxi Stand,Travel and Transportation , Transport Hub 
+19050,Travel and Transportation > Transport Hub > Tram Station,Travel and Transportation , Transport Hub 
+19051,Travel and Transportation > Transportation Service,Travel and Transportation , Transportation Service
+19052,Travel and Transportation > Transportation Service > Charter Bus,Travel and Transportation , Transportation Service 
+19053,Travel and Transportation > Transportation Service > Limo Service,Travel and Transportation , Transportation Service 
+19054,Travel and Transportation > Transportation Service > Public Transportation,Travel and Transportation , Transportation Service 
+19055,Travel and Transportation > Travel Agency,Travel and Transportation , Travel Agency
+19056,Travel and Transportation > Travel Lounge,Travel and Transportation , Travel Lounge
+19057,Travel and Transportation > Truck Stop,Travel and Transportation , Truck Stop
+19058,Travel and Transportation > Lodging > Hotel > Hotel Pool,Travel and Transportation , Lodging 
+19059,Travel and Transportation > Moving Target,Travel and Transportation , Moving Target
+19060,Travel and Transportation > Road,Travel and Transportation , Road
+19061,Travel and Transportation > Road > Intersection,Travel and Transportation , Road 
+19062,Travel and Transportation > Transport Hub > Airport > Plane,Travel and Transportation , Transport Hub 
+19063,Travel and Transportation > Transport Hub > Light Rail Station,Travel and Transportation , Transport Hub 
+19064,Travel and Transportation > Boat or Ferry,Travel and Transportation , Boat or Ferry
+19065,Travel and Transportation > Cable Car,Travel and Transportation , Cable Car
+19066,Travel and Transportation > Train,Travel and Transportation , Train
+19067,Travel and Transportation > Transportation Service > Public Transportation > Bus Line,Travel and Transportation , Transportation Service 
+19068,Travel and Transportation > Transportation Service > Taxi,Travel and Transportation , Transportation Service 
+19070,Travel and Transportation > Transport Hub > Airport > Airport Ticket Counter,Travel and Transportation , Transport Hub 
