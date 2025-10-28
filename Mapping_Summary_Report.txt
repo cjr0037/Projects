@@ -1,0 +1,39 @@
+MASTER CATEGORY MAPPING SUMMARY REPORT
+============================================================
+
+Total Foursquare Categories: 1360
+Successfully Matched: 1026 (75.4%)
+Unmatched: 334 (24.6%)
+
+Match Quality Distribution:
+  Poor: 1 (0.1%)
+  Fair: 651 (47.9%)
+  Good: 105 (7.7%)
+  Excellent: 269 (19.8%)
+
+Match Type Distribution:
+  semantic_group: 817 (60.1%)
+  no_match: 334 (24.6%)
+  direct_match: 209 (15.4%)
+
+Top 20 Best Matches (by similarity score):
+  Arts and Entertainment -> arts_and_entertainment (Score: 1.000)
+  Amusement Park -> amusement_park (Score: 1.000)
+  Aquarium -> aquarium (Score: 1.000)
+  Arcade -> arcade (Score: 1.000)
+  Bowling Alley -> bowling_alley (Score: 1.000)
+  Casino -> casino (Score: 1.000)
+  Circus -> circus (Score: 1.000)
+  Comedy Club -> comedy_club (Score: 1.000)
+  Country Club -> country_club (Score: 1.000)
+  Fair -> fair (Score: 1.000)
+  Internet Cafe -> internet_cafe (Score: 1.000)
+  Drive-in Theater -> drive_in_theater (Score: 1.000)
+  Museum -> museum (Score: 1.000)
+  History Museum -> history_museum (Score: 1.000)
+  Science Museum -> science_museum (Score: 1.000)
+  Planetarium -> planetarium (Score: 1.000)
+  Pool Hall -> pool_hall (Score: 1.000)
+  Street Art -> street_art (Score: 1.000)
+  Salsa Club -> salsa_club (Score: 1.000)
+  Baseball Stadium -> baseball_stadium (Score: 1.000)
