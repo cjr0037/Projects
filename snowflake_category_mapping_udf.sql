@@ -1,6 +1,7 @@
 -- Snowflake UDF to map category labels to primary categories
 -- Created: 2025-10-31
 -- Source: final_categories_20251031.csv
+-- Total Mappings: 1991
 
 CREATE OR REPLACE FUNCTION MAP_CATEGORY_LABEL_TO_PRIMARY(CATEGORY_LABEL VARCHAR)
 RETURNS VARCHAR
