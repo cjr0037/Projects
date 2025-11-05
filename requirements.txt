@@ -1,0 +1,38 @@
+# Master POI Table Creator - Requirements
+# Open source geospatial data processing dependencies
+
+# Core geospatial libraries
+geopandas>=0.14.0
+shapely>=2.0.0
+pyproj>=3.6.0
+fiona>=1.9.5
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Data storage formats
+pyarrow>=14.0.0  # For Parquet support
+fastparquet>=2023.10.0
+
+# Database support (optional)
+sqlalchemy>=2.0.0
+geoalchemy2>=0.14.0
+psycopg2-binary>=2.9.9  # PostgreSQL/PostGIS
+
+# HTTP requests for API calls
+requests>=2.31.0
+
+# DuckDB for Overture Maps data access
+duckdb>=0.10.0
+
+# Optional: For advanced Overture Maps integration
+# overturemaps>=0.3.0
+
+# Jupyter notebook support (optional)
+jupyter>=1.0.0
+matplotlib>=3.8.0
+folium>=0.15.0  # For interactive maps
+
+# CLI support
+click>=8.1.0
