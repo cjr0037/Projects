@@ -80,7 +80,7 @@ AS '
                 ,SPATIAL_SHIFT
                 ,''${FLOWID}'' AS FLOWID
                 ,''${CUSTOMERTAG}'' AS CUSTOMERTAG
-                ,''${runTimestamp}''::TIMESTAMP_NTZ AS CREATEDON
+                ,''${runTimestamp}''::TIMESTAMP_LTZ AS CREATEDON
             FROM sampled_signals ss
             JOIN deviceSample ds ON ss.GRID = ds.GRID
         )`;
@@ -92,7 +92,7 @@ AS '
             FROM ${intermediateTableFull}
             WHERE FLOWID = ''${FLOWID}''
               AND CUSTOMERTAG = ''${CUSTOMERTAG}''
-              AND CREATEDON = ''${runTimestamp}''::TIMESTAMP_NTZ
+              AND CREATEDON = ''${runTimestamp}''::TIMESTAMP_LTZ
         `;
     
     try {
