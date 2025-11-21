@@ -102,15 +102,15 @@ $$
     }
     
     // ========================================================================
-    // SECTION 3: Create the consolidated table using UNION ALL
+    // SECTION 3: Insert into the consolidated table using UNION ALL
     // ========================================================================
-    var create_table_query = `CREATE OR REPLACE TABLE ${database}.${schema}.${consolidated_table} AS\n`;
-    create_table_query += union_queries.join('\nUNION ALL\n');
+    var insert_query = `INSERT INTO ${database}.${schema}.${consolidated_table}\n`;
+    insert_query += union_queries.join('\nUNION ALL\n');
     
     try {
-        snowflake.execute({ sqlText: create_table_query });
+        snowflake.execute({ sqlText: insert_query });
     } catch (err) {
-        return `Error creating consolidated table: ${err.message}`;
+        return `Error inserting into consolidated table: ${err.message}`;
     }
     
     // ========================================================================
@@ -142,9 +142,9 @@ $$
     // ========================================================================
     // SECTION 6: Build and return summary message
     // ========================================================================
-    var summary = `Successfully consolidated ${source_tables.length} table(s) into ${consolidated_table}\n`;
+    var summary = `Successfully inserted data from ${source_tables.length} table(s) into ${consolidated_table}\n`;
     summary += `Total rows in consolidated table: ${total_rows}\n`;
-    summary += `Tables dropped: ${dropped_tables.length}\n`;
+    summary += `Source tables dropped: ${dropped_tables.length}\n`;
     
     if (failed_drops.length > 0) {
         summary += `\nWARNING: Failed to drop ${failed_drops.length} table(s):\n`;
