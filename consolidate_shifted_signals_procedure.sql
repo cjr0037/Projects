@@ -88,7 +88,20 @@ $$
         var select_parts = [];
         for (var j = 0; j < target_columns.length; j++) {
             var col = target_columns[j];
-            if (existing_columns[col.name]) {
+            
+            // Handle column name mapping: FLOWID in source -> FLOWDEF_ID in target
+            if (col.name === 'FLOWDEF_ID') {
+                if (existing_columns['FLOWID']) {
+                    // Source table has FLOWID, map it to FLOWDEF_ID
+                    select_parts.push('FLOWID AS FLOWDEF_ID');
+                } else if (existing_columns['FLOWDEF_ID']) {
+                    // Source table already has FLOWDEF_ID
+                    select_parts.push('FLOWDEF_ID');
+                } else {
+                    // Column missing, use NULL
+                    select_parts.push(`NULL::${col.type} AS FLOWDEF_ID`);
+                }
+            } else if (existing_columns[col.name]) {
                 // Column exists, select it
                 select_parts.push(col.name);
             } else {
